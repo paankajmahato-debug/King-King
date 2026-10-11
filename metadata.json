@@ -1,0 +1,6 @@
+{
+  "name": "CLEENZO - Cleaning Solutions & Order Management",
+  "description": "Production-ready mobile-first CLEENZO cleaning products platform with unified inventory, manual price & stock control, and customer ordering system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

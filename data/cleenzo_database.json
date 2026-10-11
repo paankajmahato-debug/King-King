@@ -1,0 +1,3616 @@
+{
+  "products": [
+    {
+      "name": "TAZE cleaning DETERGENT POWDER",
+      "image": "/api/images/photo-1791274051829-xbfsax.jpeg",
+      "category": "Floor Care",
+      "createdAt": "2026-10-06T08:07:35.113Z",
+      "updatedAt": "2026-10-06T08:08:06.277Z",
+      "features": [
+        "Kills 99.9% disease-causing germs",
+        "Pleasant aroma",
+        "Safe on tiles and marble"
+      ],
+      "variants": [
+        {
+          "mrp": 60,
+          "soldQuantity": 0,
+          "size": "250 ML",
+          "sellingPrice": 49,
+          "offer": "₹11 OFF",
+          "status": "OUT_OF_STOCK",
+          "stockQuantity": 0,
+          "variantId": "var-1791274055113-c7m2-1"
+        },
+        {
+          "soldQuantity": 0,
+          "size": "500 ML",
+          "offer": "₹15 OFF",
+          "sellingPrice": 85,
+          "status": "ACTIVE",
+          "mrp": 100,
+          "stockQuantity": 15,
+          "variantId": "var-1791274055113-c7m2-2"
+        },
+        {
+          "stockQuantity": 0,
+          "status": "OUT_OF_STOCK",
+          "soldQuantity": 0,
+          "size": "1 Litre",
+          "sellingPrice": 149,
+          "variantId": "var-1791274055113-c7m2-3",
+          "offer": "₹31 OFF",
+          "mrp": 180
+        },
+        {
+          "stockQuantity": 0,
+          "soldQuantity": 0,
+          "offer": "₹101 OFF",
+          "sellingPrice": 599,
+          "size": "5 Litre",
+          "variantId": "var-1791274055113-c7m2-4",
+          "mrp": 700,
+          "status": "OUT_OF_STOCK"
+        }
+      ],
+      "description": "High efficacy clinical grade cleaning agent.",
+      "tagline": "Pro hygiene formulation",
+      "id": "prod-1791274055113-c7m2",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "prod-floor-cleaner",
+      "createdAt": "2026-09-30T10:00:00.000Z",
+      "updatedAt": "2026-10-09T18:27:07.093Z",
+      "category": "Floor Care",
+      "tagline": "Ultra-concentrated hospital-grade disinfectant",
+      "features": [
+        "Kills 99.9% disease-causing germs",
+        "Long-lasting citrus fresh fragrance",
+        "Safe on marble, granite, mosaic and tiles",
+        "Streak-free rapid drying technology"
+      ],
+      "variants": [
+        {
+          "variantId": "var-fl-250",
+          "status": "OUT_OF_STOCK",
+          "stockQuantity": 0,
+          "soldQuantity": 5,
+          "sellingPrice": 49,
+          "offer": "₹11 OFF (18% OFF)",
+          "size": "250 ML",
+          "mrp": 60
+        },
+        {
+          "size": "1 Litre",
+          "mrp": 180,
+          "stockQuantity": 0,
+          "offer": "₹31 OFF (17% OFF)",
+          "status": "OUT_OF_STOCK",
+          "soldQuantity": 0,
+          "sellingPrice": 149,
+          "variantId": "var-fl-1000"
+        },
+        {
+          "offer": "₹101 OFF (14% OFF)",
+          "size": "5 Litre",
+          "mrp": 700,
+          "sellingPrice": 599,
+          "variantId": "var-fl-5000",
+          "soldQuantity": 0,
+          "stockQuantity": 0,
+          "status": "OUT_OF_STOCK"
+        },
+        {
+          "sellingPrice": 60,
+          "mrp": 110,
+          "soldQuantity": 0,
+          "status": "ACTIVE",
+          "offer": "₹50 OFF",
+          "size": "500ml",
+          "stockQuantity": 16,
+          "variantId": "var-1791271319183-4egz"
+        }
+      ],
+      "description": "Tested and verified in clinical laboratories for 99.99% viral and bacterial destruction.",
+      "status": "LIVE",
+      "image": "/api/images/photo-1790906737756-2mbxdg.jpeg",
+      "name": "TAGE Clining Floor Cleaner"
+    },
+    {
+      "tagline": "Crystal clear streak-free clarity",
+      "image": "/api/images/photo-1790906923958-disri9.jpeg",
+      "name": "TAGE Clining Glass & Mirror Shiner",
+      "id": "prod-glass-shiner",
+      "description": "Instant evaporation glass formula with anti-dust shield. Eliminates fingerprints, grease smears, and haze from mirrors, windshields, and glass tabletops.",
+      "category": "Glass Care",
+      "status": "LIVE",
+      "variants": [
+        {
+          "status": "OUT_OF_STOCK",
+          "variantId": "var-gs-250",
+          "stockQuantity": 0,
+          "offer": "₹10 OFF (15% OFF)",
+          "sellingPrice": 55,
+          "mrp": 65,
+          "size": "250 ML",
+          "soldQuantity": 0
+        },
+        {
+          "stockQuantity": 16,
+          "status": "ACTIVE",
+          "variantId": "var-gs-500",
+          "size": "500 ML",
+          "offer": "₹50 OFF (45% OFF)",
+          "soldQuantity": 2,
+          "sellingPrice": 60,
+          "mrp": 110
+        },
+        {
+          "size": "1 Litre",
+          "mrp": 210,
+          "variantId": "var-gs-1000",
+          "soldQuantity": 0,
+          "offer": "₹35 OFF (17% OFF)",
+          "status": "OUT_OF_STOCK",
+          "sellingPrice": 175,
+          "stockQuantity": 0
+        },
+        {
+          "variantId": "var-gs-5000",
+          "stockQuantity": 0,
+          "sellingPrice": 680,
+          "size": "5 Litre",
+          "soldQuantity": 0,
+          "offer": "₹120 OFF (15% OFF)",
+          "status": "OUT_OF_STOCK",
+          "mrp": 800
+        }
+      ],
+      "features": [
+        "Streak-free crystalline clarity",
+        "Anti-static dust repellence",
+        "Safe for tinted glass and chrome trims",
+        "Fast-acting vapor technology"
+      ],
+      "createdAt": "2026-09-30T10:10:00.000Z",
+      "updatedAt": "2026-10-08T02:19:17.796Z"
+    },
+    {
+      "id": "prod-kitchen-degreaser",
+      "image": "/api/images/photo-1791272045821-umxxed.jpeg",
+      "createdAt": "2026-09-30T10:20:00.000Z",
+      "updatedAt": "2026-10-06T09:15:16.395Z",
+      "status": "LIVE",
+      "name": "TAGE Cliningi DISHWASHER FOR KITCHEN",
+      "description": "High-alkaline active enzyme foam that cuts through burnt-on grease, sticky kitchen oil, exhaust fan encrustations, and grill residue within 3 minutes.",
+      "category": "Kitchen",
+      "variants": [
+        {
+          "status": "ACTIVE",
+          "size": "500 ML",
+          "sellingPrice": 60,
+          "variantId": "var-kd-500",
+          "offer": "₹50 OFF (45% OFF)",
+          "soldQuantity": 0,
+          "mrp": 110,
+          "stockQuantity": 16
+        },
+        {
+          "size": "1 Litre",
+          "offer": "₹41 OFF (16% OFF)",
+          "status": "ACTIVE",
+          "mrp": 260,
+          "variantId": "var-kd-1000",
+          "soldQuantity": 0,
+          "stockQuantity": 0,
+          "sellingPrice": 219
+        },
+        {
+          "sellingPrice": 899,
+          "stockQuantity": 0,
+          "soldQuantity": 0,
+          "status": "ACTIVE",
+          "offer": "₹201 OFF (18% OFF)",
+          "variantId": "var-kd-5000",
+          "mrp": 1100,
+          "size": "5 Litre"
+        }
+      ],
+      "features": [
+        "Rapid penetration of hardened burnt oils",
+        "Non-abrasive on stainless steel and cast iron",
+        "Citrus active enzymes break down lipid bonds",
+        "Ideal for commercial and home kitchens"
+      ],
+      "tagline": "Industrial grease dissolver for chimneys & cooktops"
+    },
+    {
+      "category": "Disinfection",
+      "description": "Multi-action antimicrobial spray that neutralizes bacteria and viruses on countertops, door handles, tables, and appliances with zero sticky residue.",
+      "features": [
+        "Multi-surface versatility: glass, metal, wood & plastic",
+        "Non-corrosive, non-bleach formulation",
+        "Leaves a clean botanical lavender breeze",
+        "Food-contact safe after wiping"
+      ],
+      "variants": [
+        {
+          "soldQuantity": 0,
+          "sellingPrice": 59,
+          "size": "250 ML",
+          "offer": "₹16 OFF (21% OFF)",
+          "stockQuantity": 0,
+          "status": "OUT_OF_STOCK",
+          "mrp": 75,
+          "variantId": "var-sd-250"
+        },
+        {
+          "variantId": "var-sd-500",
+          "mrp": 110,
+          "stockQuantity": 16,
+          "status": "ACTIVE",
+          "soldQuantity": 0,
+          "size": "500 ML",
+          "sellingPrice": 50,
+          "offer": "₹60 OFF(54% off)"
+        },
+        {
+          "size": "1 Litre",
+          "stockQuantity": 0,
+          "variantId": "var-sd-1000",
+          "mrp": 240,
+          "sellingPrice": 199,
+          "offer": "₹41 OFF (17% OFF)",
+          "status": "OUT_OF_STOCK",
+          "soldQuantity": 0
+        },
+        {
+          "variantId": "var-sd-5000",
+          "stockQuantity": 0,
+          "soldQuantity": 0,
+          "status": "OUT_OF_STOCK",
+          "mrp": 950,
+          "sellingPrice": 799,
+          "size": "5 Litre",
+          "offer": "₹151 OFF (16% OFF)"
+        }
+      ],
+      "image": "/api/images/photo-1791273775034-0yrln0.png",
+      "tagline": "Hospital-grade sanitization for every touchpoint",
+      "createdAt": "2026-09-30T10:05:00.000Z",
+      "updatedAt": "2026-10-06T09:11:03.818Z",
+      "id": "prod-surface-disinfectant",
+      "name": "TAGE Clining All FLOOR CLEANER",
+      "status": "LIVE"
+    },
+    {
+      "id": "prod-toilet-cleaner",
+      "tagline": "10x tough stain and limescale removal",
+      "variants": [
+        {
+          "stockQuantity": 0,
+          "soldQuantity": 0,
+          "sellingPrice": 0,
+          "status": "OUT_OF_STOCK",
+          "variantId": "var-tc-250",
+          "mrp": 0,
+          "offer": "₹10 OFF (18% OFF)",
+          "size": "250 ML"
+        },
+        {
+          "status": "ACTIVE",
+          "stockQuantity": 22,
+          "sellingPrice": 79,
+          "size": "500 ML",
+          "soldQuantity": 3,
+          "offer": "₹16 OFF (17% OFF)",
+          "variantId": "var-tc-500",
+          "mrp": 95
+        },
+        {
+          "stockQuantity": 0,
+          "variantId": "var-tc-1000",
+          "soldQuantity": 0,
+          "sellingPrice": 0,
+          "mrp": 0,
+          "status": "OUT_OF_STOCK",
+          "size": "1 Litre",
+          "offer": "₹31 OFF (18% OFF)"
+        },
+        {
+          "stockQuantity": 8,
+          "variantId": "var-tc-5000",
+          "status": "ACTIVE",
+          "mrp": 650,
+          "soldQuantity": 0,
+          "size": "5 Litre",
+          "offer": "₹110 OFF (17% OFF)",
+          "sellingPrice": 540
+        }
+      ],
+      "features": [
+        "10x power descaling formula",
+        "Thick gel cling action for maximum contact time",
+        "Destroys 99.9% germs & odor-causing bacteria",
+        "Angled reach nozzle design"
+      ],
+      "category": "Sanitary",
+      "updatedAt": "2026-10-06T08:05:59.635Z",
+      "createdAt": "2026-09-30T10:15:00.000Z",
+      "image": "/api/images/photo-1791273905207-u2e3lt.jpeg",
+      "name": "TAGE Clining  WHITE  PHENYL",
+      "status": "UPCOMING",
+      "description": "Thick blue clinging gel that coats beneath the rim to dissolve stubborn yellow stains, hard water limescale, and uric acid deposits effortlessly."
+    }
+  ],
+  "orders": [
+    {
+      "customerAddress": "Ukhra",
+      "acceptedAt": "2026-10-06T05:08:06.087Z",
+      "updatedAt": "2026-10-06T05:08:06.087Z",
+      "createdAt": "2026-10-01T09:44:28.291Z",
+      "id": "CLZ-20261001-0001",
+      "status": "ACCEPTED",
+      "items": [
+        {
+          "subtotal": 85,
+          "productName": "TAGE Clining Floor Cleaner",
+          "sellingPrice": 85,
+          "mrp": 100,
+          "variantId": "var-fl-500",
+          "productId": "prod-floor-cleaner",
+          "quantity": 1,
+          "size": "500 ML"
+        }
+      ],
+      "customerName": "King King",
+      "tracking": {
+        "status": "ACCEPTED",
+        "expectedDelivery": "4–5 Days",
+        "updatedAt": "2026-10-06T05:08:06.087Z",
+        "history": [
+          {
+            "note": "Order confirmed and accepted by store. Central inventory deducted.",
+            "timestamp": "2026-10-06T05:08:06.087Z",
+            "status": "ACCEPTED"
+          }
+        ]
+      },
+      "customerPhone": "7047341154",
+      "sourceUrl": "CUSTOMER_ID",
+      "grandTotal": 85
+    },
+    {
+      "items": [
+        {
+          "productName": "TAGE Clining Floor Cleaner",
+          "subtotal": 178,
+          "sellingPrice": 89,
+          "productId": "prod-floor-cleaner",
+          "variantId": "var-fl-500",
+          "mrp": 105,
+          "quantity": 2,
+          "size": "500 ML"
+        }
+      ],
+      "id": "CLZ-20261002-0002",
+      "updatedAt": "2026-10-04T11:53:23.587Z",
+      "tracking": {
+        "history": [
+          {
+            "note": "Order cancelled before acceptance.",
+            "timestamp": "2026-10-04T11:53:23.587Z",
+            "status": "CANCELLED"
+          }
+        ],
+        "status": "CANCELLED",
+        "updatedAt": "2026-10-04T11:53:23.587Z",
+        "expectedDelivery": "Cancelled"
+      },
+      "customerName": "Test Client",
+      "status": "CANCELLED",
+      "notes": "",
+      "grandTotal": 178,
+      "sourceUrl": "",
+      "cancelledAt": "2026-10-04T11:53:23.587Z",
+      "customerPhone": "9876543210",
+      "createdAt": "2026-10-02T07:45:52.823Z",
+      "acceptedAt": "2026-10-02T07:46:17.072Z",
+      "customerAddress": "123 Main Road, Mumbai"
+    },
+    {
+      "acceptedAt": "2026-10-02T08:07:35.939Z",
+      "tracking": {
+        "updatedAt": "2026-10-04T11:53:20.826Z",
+        "expectedDelivery": "Cancelled",
+        "status": "CANCELLED",
+        "history": [
+          {
+            "timestamp": "2026-10-04T11:53:20.826Z",
+            "note": "Order cancelled before acceptance.",
+            "status": "CANCELLED"
+          }
+        ]
+      },
+      "updatedAt": "2026-10-04T11:53:20.826Z",
+      "customerAddress": "Flat 402, Sunshine Apts, Pune",
+      "status": "CANCELLED",
+      "grandTotal": 237,
+      "items": [
+        {
+          "variantId": "var-tc-500",
+          "productName": "TAGE Clining Power Toilet Bowl Cleaner",
+          "quantity": 3,
+          "mrp": 95,
+          "productId": "prod-toilet-cleaner",
+          "size": "500 ML",
+          "subtotal": 237,
+          "sellingPrice": 79
+        }
+      ],
+      "customerPhone": "9820012345",
+      "createdAt": "2026-10-02T08:07:29.882Z",
+      "cancelledAt": "2026-10-04T11:53:20.826Z",
+      "sourceUrl": "TEST_CUSTOMER",
+      "notes": "",
+      "id": "CLZ-20261002-0003",
+      "customerName": "Ramesh Sharma"
+    },
+    {
+      "customerName": "WhatsApp Client",
+      "customerPhone": "9988776655",
+      "sourceUrl": "WHATSAPP_TEST",
+      "customerAddress": "Shop 12, Market Rd, Delhi",
+      "notes": "",
+      "grandTotal": 89,
+      "status": "CANCELLED",
+      "cancelledAt": "2026-10-02T08:55:20.712Z",
+      "items": [
+        {
+          "productName": "TAGE Clining Floor Cleaner",
+          "mrp": 105,
+          "variantId": "var-fl-500",
+          "productId": "prod-floor-cleaner",
+          "quantity": 1,
+          "subtotal": 89,
+          "size": "500 ML",
+          "sellingPrice": 89
+        }
+      ],
+      "createdAt": "2026-10-02T08:23:19.730Z",
+      "updatedAt": "2026-10-02T08:55:20.712Z",
+      "id": "CLZ-20261002-0005"
+    },
+    {
+      "createdAt": "2026-10-02T08:35:41.544Z",
+      "customerName": "Sunil Verma",
+      "grandTotal": 178,
+      "items": [
+        {
+          "variantId": "var-fl-500",
+          "productName": "TAGE Clining Floor Cleaner",
+          "productId": "prod-floor-cleaner",
+          "mrp": 105,
+          "quantity": 2,
+          "size": "500 ML",
+          "subtotal": 178,
+          "sellingPrice": 89
+        }
+      ],
+      "packagingAt": "2026-10-04T09:36:23.397Z",
+      "acceptedAt": "2026-10-02T08:35:46.142Z",
+      "sourceUrl": "WHATSAPP_CLIENT",
+      "status": "PACKAGING",
+      "notes": "",
+      "customerPhone": "9811223344",
+      "updatedAt": "2026-10-04T09:36:23.397Z",
+      "tracking": {
+        "expectedDelivery": "4–5 Days",
+        "status": "PACKAGING",
+        "history": [
+          {
+            "note": "Items inspected, verified, and sealed in warehouse packaging.",
+            "status": "PACKAGING",
+            "timestamp": "2026-10-04T09:36:23.397Z"
+          }
+        ],
+        "updatedAt": "2026-10-04T09:36:23.397Z"
+      },
+      "customerAddress": "B-104, Green Heights, Andheri West, Mumbai",
+      "id": "CLZ-20261002-0006"
+    },
+    {
+      "updatedAt": "2026-10-02T09:58:57.314Z",
+      "createdAt": "2026-10-02T09:09:51.987Z",
+      "id": "CLZ-20261002-0007",
+      "customerAddress": "Shop 5, Station Road, Thane",
+      "customerPhone": "9833445566",
+      "grandTotal": 89,
+      "status": "CANCELLED",
+      "items": [
+        {
+          "productName": "TAGE Clining Floor Cleaner",
+          "quantity": 1,
+          "size": "500 ML",
+          "productId": "prod-floor-cleaner",
+          "subtotal": 89,
+          "variantId": "var-fl-500",
+          "mrp": 105,
+          "sellingPrice": 89
+        }
+      ],
+      "customerName": "Deepak Joshi",
+      "cancelledAt": "2026-10-02T09:58:57.314Z",
+      "sourceUrl": "OFFLINE_SALE",
+      "notes": ""
+    },
+    {
+      "createdAt": "2026-10-02T10:03:12.123Z",
+      "updatedAt": "2026-10-02T10:51:28.291Z",
+      "customerPhone": "9820556677",
+      "cancelledAt": "2026-10-02T10:51:28.291Z",
+      "notes": "Call on arrival please",
+      "grandTotal": 218,
+      "customerAddress": "Flat 12B, Emerald Towers, Bandra West, Mumbai",
+      "status": "CANCELLED",
+      "sourceUrl": "RANDOM_ORDER_SAMPLE",
+      "items": [
+        {
+          "sellingPrice": 109,
+          "variantId": "var-sd-500",
+          "productId": "prod-surface-disinfectant",
+          "subtotal": 218,
+          "size": "500 ML",
+          "quantity": 2,
+          "mrp": 130,
+          "productName": "TAGE Clining All-Surface Disinfectant"
+        }
+      ],
+      "id": "CLZ-20261002-0008",
+      "customerName": "Aditya Nair"
+    },
+    {
+      "customerAddress": "Plot 45, Sector 18, Vashi, Navi Mumbai",
+      "notes": "Generated via 1-Click Random Order Generator",
+      "sourceUrl": "RANDOM_ODAR",
+      "id": "CLZ-20261002-0009",
+      "status": "CANCELLED",
+      "customerName": "Suresh Nair",
+      "cancelledAt": "2026-10-02T10:51:25.817Z",
+      "customerPhone": "9896931763",
+      "items": [
+        {
+          "subtotal": 799,
+          "sellingPrice": 799,
+          "mrp": 950,
+          "size": "5 Litre",
+          "productId": "prod-surface-disinfectant",
+          "variantId": "var-sd-5000",
+          "productName": "TAGE Clining All-Surface Disinfectant",
+          "quantity": 1
+        },
+        {
+          "productId": "prod-toilet-cleaner",
+          "productName": "TAGE Clining Power Toilet Bowl Cleaner",
+          "variantId": "var-tc-250",
+          "quantity": 1,
+          "sellingPrice": 45,
+          "mrp": 55,
+          "subtotal": 45,
+          "size": "250 ML"
+        }
+      ],
+      "grandTotal": 844,
+      "updatedAt": "2026-10-02T10:51:25.817Z",
+      "createdAt": "2026-10-02T10:04:40.328Z"
+    },
+    {
+      "sourceUrl": "RANDOM_ODAR",
+      "customerAddress": "Flat 402, Sunrise Apartments, MG Road, Pune",
+      "id": "CLZ-20261002-0010",
+      "grandTotal": 174,
+      "notes": "Generated via 1-Click Random Order Generator",
+      "customerName": "Rajesh Enterprises",
+      "status": "CANCELLED",
+      "cancelledAt": "2026-10-02T10:51:23.852Z",
+      "updatedAt": "2026-10-02T10:51:23.852Z",
+      "createdAt": "2026-10-02T10:07:19.563Z",
+      "customerPhone": "9896306625",
+      "items": [
+        {
+          "variantId": "var-tc-500",
+          "quantity": 1,
+          "productId": "prod-toilet-cleaner",
+          "mrp": 95,
+          "sellingPrice": 79,
+          "size": "500 ML",
+          "subtotal": 79,
+          "productName": "TAGE Clining Power Toilet Bowl Cleaner"
+        },
+        {
+          "quantity": 1,
+          "size": "500 ML",
+          "variantId": "var-gs-500",
+          "sellingPrice": 95,
+          "productId": "prod-glass-shiner",
+          "productName": "TAGE Clining Glass & Mirror Shiner",
+          "subtotal": 95,
+          "mrp": 115
+        }
+      ]
+    },
+    {
+      "customerPhone": "9844673308",
+      "items": [
+        {
+          "variantId": "var-sd-250",
+          "productId": "prod-surface-disinfectant",
+          "productName": "TAGE Clining All-Surface Disinfectant",
+          "sellingPrice": 59,
+          "mrp": 75,
+          "quantity": 2,
+          "subtotal": 118,
+          "size": "250 ML"
+        },
+        {
+          "variantId": "var-fl-5000",
+          "productName": "TAGE Clining Floor Cleaner",
+          "quantity": 1,
+          "productId": "prod-floor-cleaner",
+          "subtotal": 599,
+          "sellingPrice": 599,
+          "mrp": 700,
+          "size": "5 Litre"
+        }
+      ],
+      "notes": "Generated via 1-Click Random Order Generator",
+      "status": "CANCELLED",
+      "sourceUrl": "RANDOM_ODAR",
+      "grandTotal": 717,
+      "customerName": "Vikram Malhotra",
+      "cancelledAt": "2026-10-02T10:51:21.432Z",
+      "id": "CLZ-20261002-0011",
+      "customerAddress": "7B Marine View, Worli Sea Face, Mumbai",
+      "createdAt": "2026-10-02T10:08:58.091Z",
+      "updatedAt": "2026-10-02T10:51:21.432Z"
+    },
+    {
+      "grandTotal": 118,
+      "id": "CLZ-20261002-0012",
+      "notes": "Generated via 1-Click Random Order Generator",
+      "items": [
+        {
+          "variantId": "var-sd-250",
+          "size": "250 ML",
+          "productId": "prod-surface-disinfectant",
+          "mrp": 75,
+          "quantity": 2,
+          "productName": "TAGE Clining All-Surface Disinfectant",
+          "subtotal": 118,
+          "sellingPrice": 59
+        }
+      ],
+      "createdAt": "2026-10-02T10:09:01.020Z",
+      "updatedAt": "2026-10-02T10:51:18.761Z",
+      "customerAddress": "Office 301, Tech Park, Whitefield, Bengaluru",
+      "status": "CANCELLED",
+      "customerName": "Neha Singhania",
+      "customerPhone": "9827103009",
+      "sourceUrl": "RANDOM_ODAR",
+      "cancelledAt": "2026-10-02T10:51:18.761Z"
+    },
+    {
+      "items": [
+        {
+          "subtotal": 59,
+          "productId": "prod-surface-disinfectant",
+          "variantId": "var-sd-250",
+          "sellingPrice": 59,
+          "mrp": 75,
+          "productName": "TAGE Clining All-Surface Disinfectant",
+          "quantity": 1,
+          "size": "250 ML"
+        }
+      ],
+      "id": "CLZ-20261002-0013",
+      "createdAt": "2026-10-02T10:09:03.539Z",
+      "updatedAt": "2026-10-02T10:51:16.523Z",
+      "notes": "Generated via 1-Click Random Order Generator",
+      "cancelledAt": "2026-10-02T10:51:16.523Z",
+      "customerName": "Suresh Nair",
+      "sourceUrl": "RANDOM_ODAR",
+      "customerAddress": "Office 301, Tech Park, Whitefield, Bengaluru",
+      "grandTotal": 59,
+      "status": "CANCELLED",
+      "customerPhone": "9889334091"
+    },
+    {
+      "tracking": {
+        "history": [
+          {
+            "timestamp": "2026-10-04T09:36:17.495Z",
+            "status": "PACKAGING",
+            "note": "Items inspected, verified, and sealed in warehouse packaging."
+          }
+        ],
+        "status": "PACKAGING",
+        "expectedDelivery": "4–5 Days",
+        "updatedAt": "2026-10-04T09:36:17.495Z"
+      },
+      "sourceUrl": "VIP_CLIENT",
+      "grandTotal": 49,
+      "paymentStatus": "PAID",
+      "notes": "",
+      "customerName": "Rintu Halder",
+      "customerAddress": "Somra bazar, jashra , Hooghly (Landmark: Jashra durgatola)",
+      "customerPhone": "9832928334",
+      "createdAt": "2026-10-02T10:42:34.601Z",
+      "paidAt": "2026-10-02T14:51:23.592Z",
+      "acceptedAt": "2026-10-02T10:51:13.249Z",
+      "status": "PACKAGING",
+      "id": "CLZ-20261002-0014",
+      "items": [
+        {
+          "sellingPrice": 49,
+          "size": "250 ML",
+          "subtotal": 49,
+          "mrp": 60,
+          "quantity": 1,
+          "productName": "TAGE Clining Floor Cleaner",
+          "variantId": "var-fl-250",
+          "productId": "prod-floor-cleaner"
+        }
+      ],
+      "updatedAt": "2026-10-04T09:36:17.495Z",
+      "packagingAt": "2026-10-04T09:36:17.495Z"
+    },
+    {
+      "items": [
+        {
+          "subtotal": 49,
+          "mrp": 60,
+          "productName": "TAGE Clining Floor Cleaner",
+          "sellingPrice": 49,
+          "size": "250 ML",
+          "productId": "prod-floor-cleaner",
+          "status": "PACKAGING",
+          "quantity": 1,
+          "variantId": "var-fl-250"
+        }
+      ],
+      "tracking": {
+        "updatedAt": "2026-10-03T15:00:26.433Z",
+        "expectedDelivery": "4–5 Days",
+        "history": [
+          {
+            "status": "ACCEPTED",
+            "timestamp": "2026-10-03T15:00:26.433Z",
+            "note": "Item \"TAGE Clining Floor Cleaner (250 ML)\" status set to PACKAGING."
+          }
+        ],
+        "status": "ACCEPTED"
+      },
+      "updatedAt": "2026-10-03T15:00:26.433Z",
+      "id": "CLZ-20261002-0015",
+      "customerAddress": "Somra bazar, Jashra , Hooghly (Landmark: Jashra durgatola)",
+      "status": "ACCEPTED",
+      "paidAt": "2026-10-02T14:51:21.312Z",
+      "paymentStatus": "PAID",
+      "sourceUrl": "VIP_CLIENT",
+      "notes": "",
+      "acceptedAt": "2026-10-02T10:51:08.469Z",
+      "createdAt": "2026-10-02T10:45:46.250Z",
+      "grandTotal": 49,
+      "customerPhone": "9832928334",
+      "customerName": "Rintu Halder"
+    },
+    {
+      "createdAt": "2026-10-03T10:12:06.826Z",
+      "acceptedAt": "2026-10-03T14:59:51.421Z",
+      "idempotencyKey": "idemp_1791022326397_61srsc8",
+      "sourceUrl": "VIP_CLIENT",
+      "tracking": {
+        "history": [
+          {
+            "status": "PENDING",
+            "timestamp": "2026-10-03T10:12:06.826Z",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance."
+          },
+          {
+            "status": "ACCEPTED",
+            "note": "Order confirmed and accepted by store. Central inventory deducted.",
+            "timestamp": "2026-10-03T14:59:51.421Z"
+          },
+          {
+            "status": "ACCEPTED",
+            "note": "Item \"TAGE Clining Floor Cleaner (250 ML)\" status set to PACKAGING.",
+            "timestamp": "2026-10-03T16:04:22.888Z"
+          },
+          {
+            "note": "Item \"TAGE Clining Floor Cleaner (250 ML)\" status set to DELIVERED.",
+            "timestamp": "2026-10-03T16:07:51.240Z",
+            "status": "ACCEPTED"
+          },
+          {
+            "timestamp": "2026-10-03T16:07:53.590Z",
+            "note": "Item \"TAGE Clining Floor Cleaner (250 ML)\" status set to PACKAGING.",
+            "status": "ACCEPTED"
+          },
+          {
+            "timestamp": "2026-10-04T05:51:48.737Z",
+            "note": "Item \"TAGE Clining Floor Cleaner (250 ML)\" status set to DELIVERED.",
+            "status": "ACCEPTED"
+          },
+          {
+            "timestamp": "2026-10-04T09:36:10.050Z",
+            "status": "PACKAGING",
+            "note": "Items inspected, verified, and sealed in warehouse packaging."
+          },
+          {
+            "status": "OUT_FOR_DELIVERY",
+            "timestamp": "2026-10-04T10:03:35.345Z",
+            "note": "Dispatched with logistics courier. Out for delivery."
+          },
+          {
+            "timestamp": "2026-10-04T10:22:21.559Z",
+            "status": "DELIVERED",
+            "note": "Package delivered successfully to customer address."
+          },
+          {
+            "timestamp": "2026-10-06T09:13:24.985Z",
+            "note": "Order cancelled by store owner.",
+            "status": "CANCELLED"
+          }
+        ],
+        "expectedDelivery": "4–5 Days",
+        "status": "CANCELLED",
+        "updatedAt": "2026-10-06T09:13:24.985Z"
+      },
+      "notes": "",
+      "updatedAt": "2026-10-06T09:13:24.985Z",
+      "customerId": "CUST-9242150040",
+      "deliveredRevenue": 49,
+      "revenueContribution": 0,
+      "customerPhone": "9242150040",
+      "items": [
+        {
+          "size": "250 ML",
+          "sellingPrice": 49,
+          "subtotal": 49,
+          "quantity": 1,
+          "variantId": "var-fl-250",
+          "status": "DELIVERED",
+          "productName": "TAGE Clining Floor Cleaner",
+          "mrp": 60,
+          "productId": "prod-floor-cleaner"
+        }
+      ],
+      "paidAt": "2026-10-04T10:22:21.559Z",
+      "packagingAt": "2026-10-04T09:36:10.050Z",
+      "customerName": "Paankaj",
+      "id": "CLZ-20261003-0017",
+      "cancelledAt": "2026-10-06T09:13:24.985Z",
+      "customerAddress": "713512",
+      "grandTotal": 49,
+      "finalRevenue": 0,
+      "paymentStatus": "PAID",
+      "revenueCounted": false,
+      "status": "CANCELLED",
+      "deliveredAt": "2026-10-04T10:22:21.559Z",
+      "outForDeliveryAt": "2026-10-04T10:03:35.345Z"
+    },
+    {
+      "sourceUrl": "",
+      "customerId": "CUST-9242150040",
+      "id": "CLZ-20261003-0018",
+      "customerPhone": "9242150040",
+      "notes": "",
+      "createdAt": "2026-10-03T14:32:57.491Z",
+      "status": "OUT_FOR_DELIVERY",
+      "customerName": "Paankaj",
+      "outForDeliveryAt": "2026-10-04T10:03:23.081Z",
+      "idempotencyKey": "idemp_1791037977069_rjg84mw",
+      "customerAddress": "713512 ukhra",
+      "acceptedAt": "2026-10-03T15:00:16.363Z",
+      "tracking": {
+        "expectedDelivery": "4–5 Days",
+        "history": [
+          {
+            "status": "PENDING",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "timestamp": "2026-10-03T14:32:57.491Z"
+          },
+          {
+            "status": "ACCEPTED",
+            "note": "Order confirmed and accepted by store. Central inventory deducted.",
+            "timestamp": "2026-10-03T15:00:16.363Z"
+          },
+          {
+            "status": "ACCEPTED",
+            "note": "Item \"TAGE Clining Floor Cleaner (250 ML)\" status set to PACKAGING.",
+            "timestamp": "2026-10-03T16:03:13.425Z"
+          },
+          {
+            "status": "ACCEPTED",
+            "timestamp": "2026-10-03T16:07:45.033Z",
+            "note": "Item \"TAGE Clining Floor Cleaner (250 ML)\" status set to DELIVERED."
+          },
+          {
+            "note": "Item \"TAGE Clining Floor Cleaner (250 ML)\" status set to PACKAGING.",
+            "status": "ACCEPTED",
+            "timestamp": "2026-10-03T16:33:22.151Z"
+          },
+          {
+            "note": "Item \"TAGE Clining Floor Cleaner (250 ML)\" status set to DELIVERED.",
+            "status": "ACCEPTED",
+            "timestamp": "2026-10-04T05:51:35.795Z"
+          },
+          {
+            "timestamp": "2026-10-04T09:36:00.833Z",
+            "status": "PACKAGING",
+            "note": "Items inspected, verified, and sealed in warehouse packaging."
+          },
+          {
+            "status": "OUT_FOR_DELIVERY",
+            "note": "Dispatched with logistics courier. Out for delivery.",
+            "timestamp": "2026-10-04T10:03:23.081Z"
+          }
+        ],
+        "status": "OUT_FOR_DELIVERY",
+        "updatedAt": "2026-10-04T10:03:23.081Z"
+      },
+      "packagingAt": "2026-10-04T09:36:00.833Z",
+      "updatedAt": "2026-10-04T10:03:23.081Z",
+      "grandTotal": 49,
+      "items": [
+        {
+          "productName": "TAGE Clining Floor Cleaner",
+          "subtotal": 49,
+          "productId": "prod-floor-cleaner",
+          "quantity": 1,
+          "mrp": 60,
+          "size": "250 ML",
+          "variantId": "var-fl-250",
+          "sellingPrice": 49,
+          "status": "DELIVERED"
+        }
+      ]
+    },
+    {
+      "grandTotal": 98,
+      "id": "CLZ-20261003-0019",
+      "updatedAt": "2026-10-04T11:53:17.615Z",
+      "customerAddress": "Plot 42, Civil Lines, Jaipur",
+      "customerPhone": "9876543210",
+      "tracking": {
+        "status": "CANCELLED",
+        "updatedAt": "2026-10-04T11:53:17.615Z",
+        "history": [
+          {
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "status": "PENDING",
+            "timestamp": "2026-10-03T15:32:39.625Z"
+          },
+          {
+            "timestamp": "2026-10-03T15:33:02.167Z",
+            "status": "ACCEPTED",
+            "note": "Order confirmed and accepted by store. Central inventory deducted."
+          },
+          {
+            "note": "Item \"TAGE Clining Floor Cleaner (250 ML)\" status set to OUT_OF_STOCK.",
+            "status": "ACCEPTED",
+            "timestamp": "2026-10-03T16:03:06.819Z"
+          },
+          {
+            "status": "CANCELLED",
+            "note": "Order cancelled before acceptance.",
+            "timestamp": "2026-10-04T11:53:17.615Z"
+          }
+        ],
+        "expectedDelivery": "4–5 Days"
+      },
+      "cancelledAt": "2026-10-04T11:53:17.615Z",
+      "acceptedAt": "2026-10-03T15:33:02.167Z",
+      "notes": "",
+      "customerName": "Ramesh Patel",
+      "createdAt": "2026-10-03T15:32:39.625Z",
+      "items": [
+        {
+          "status": "OUT_OF_STOCK",
+          "productName": "TAGE Clining Floor Cleaner",
+          "sellingPrice": 49,
+          "variantId": "var-fl-250",
+          "subtotal": 98,
+          "size": "250 ML",
+          "productId": "prod-floor-cleaner",
+          "mrp": 60,
+          "quantity": 2
+        }
+      ],
+      "status": "CANCELLED",
+      "sourceUrl": "",
+      "customerId": "CUST-9876543210"
+    },
+    {
+      "customerPhone": "9811223344",
+      "customerId": "CUST-9811223344",
+      "items": [
+        {
+          "status": "OUT_OF_STOCK",
+          "variantId": "var-gs-500",
+          "subtotal": 95,
+          "sellingPrice": 95,
+          "size": "500 ML",
+          "mrp": 115,
+          "productId": "prod-glass-shiner",
+          "productName": "TAGE Clining Glass & Mirror Shiner",
+          "quantity": 1
+        }
+      ],
+      "cancelledAt": "2026-10-04T09:38:41.753Z",
+      "updatedAt": "2026-10-04T09:38:41.753Z",
+      "tracking": {
+        "updatedAt": "2026-10-04T09:38:41.753Z",
+        "expectedDelivery": "4–5 Days",
+        "history": [
+          {
+            "timestamp": "2026-10-03T16:11:09.108Z",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "status": "PENDING"
+          },
+          {
+            "status": "ACCEPTED",
+            "timestamp": "2026-10-03T16:11:13.240Z",
+            "note": "Order confirmed and accepted by store. Central inventory deducted."
+          },
+          {
+            "timestamp": "2026-10-03T16:33:16.486Z",
+            "note": "Item \"TAGE Clining Glass & Mirror Shiner (500 ML)\" status set to OUT_OF_STOCK.",
+            "status": "ACCEPTED"
+          },
+          {
+            "note": "Order cancelled.",
+            "timestamp": "2026-10-04T09:38:41.753Z",
+            "status": "CANCELLED"
+          }
+        ],
+        "status": "CANCELLED"
+      },
+      "customerAddress": "Sector 14, Gurugram",
+      "sourceUrl": "",
+      "customerName": "Aarav Sharma",
+      "grandTotal": 95,
+      "acceptedAt": "2026-10-03T16:11:13.240Z",
+      "status": "CANCELLED",
+      "id": "CLZ-20261003-0020",
+      "createdAt": "2026-10-03T16:11:09.108Z",
+      "notes": ""
+    },
+    {
+      "customerId": "CUST-9944556677",
+      "id": "CLZ-20261003-0021",
+      "status": "CANCELLED",
+      "updatedAt": "2026-10-03T17:15:21.483Z",
+      "cancelledAt": "2026-10-03T17:15:21.483Z",
+      "items": [
+        {
+          "size": "5 Litre",
+          "sellingPrice": 680,
+          "productName": "TAGE Clining Glass & Mirror Shiner",
+          "productId": "prod-glass-shiner",
+          "mrp": 800,
+          "subtotal": 1360,
+          "quantity": 2,
+          "variantId": "var-gs-5000",
+          "status": "AVAILABLE"
+        },
+        {
+          "status": "AVAILABLE",
+          "variantId": "var-fl-5000",
+          "subtotal": 599,
+          "sellingPrice": 599,
+          "size": "5 Litre",
+          "mrp": 700,
+          "productId": "prod-floor-cleaner",
+          "productName": "TAGE Clining Floor Cleaner",
+          "quantity": 1
+        }
+      ],
+      "customerPhone": "9944556677",
+      "customerAddress": "45/2, Anna Salai, T. Nagar, Chennai, Tamil Nadu - 600017",
+      "sourceUrl": "/order?ref=ADMIN_SAMPLE",
+      "tracking": {
+        "history": [
+          {
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "status": "PENDING",
+            "timestamp": "2026-10-03T16:33:41.105Z"
+          },
+          {
+            "note": "Order cancelled before acceptance.",
+            "status": "CANCELLED",
+            "timestamp": "2026-10-03T17:15:21.483Z"
+          }
+        ],
+        "status": "CANCELLED",
+        "expectedDelivery": "4–5 Days",
+        "updatedAt": "2026-10-03T17:15:21.483Z"
+      },
+      "customerName": "Anand Rao",
+      "createdAt": "2026-10-03T16:33:41.105Z",
+      "grandTotal": 1959,
+      "notes": "Generated test order for testing order management & inventory sync"
+    },
+    {
+      "cancelledAt": "2026-10-04T11:52:31.357Z",
+      "customerPhone": "9811234567",
+      "id": "CLZ-20261004-0022",
+      "customerId": "CUST-9811234567",
+      "sourceUrl": "/order?ref=ADMIN_SAMPLE",
+      "status": "CANCELLED",
+      "notes": "Generated test order for testing order management & inventory sync",
+      "createdAt": "2026-10-04T09:33:50.870Z",
+      "customerName": "Pooja Verma",
+      "tracking": {
+        "history": [
+          {
+            "status": "PENDING",
+            "timestamp": "2026-10-04T09:33:50.870Z",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance."
+          },
+          {
+            "timestamp": "2026-10-04T11:52:31.357Z",
+            "status": "CANCELLED",
+            "note": "Order cancelled before acceptance."
+          }
+        ],
+        "status": "CANCELLED",
+        "updatedAt": "2026-10-04T11:52:31.357Z",
+        "expectedDelivery": "4–5 Days"
+      },
+      "customerAddress": "B-204, Green Heights, Indirapuram, Ghaziabad, UP - 201014",
+      "items": [
+        {
+          "productName": "TAGE Clining Glass & Mirror Shiner",
+          "status": "AVAILABLE",
+          "variantId": "var-gs-1000",
+          "mrp": 210,
+          "size": "1 Litre",
+          "quantity": 2,
+          "sellingPrice": 175,
+          "productId": "prod-glass-shiner",
+          "subtotal": 350
+        },
+        {
+          "mrp": 105,
+          "quantity": 1,
+          "productName": "TAGE Clining Floor Cleaner",
+          "subtotal": 89,
+          "productId": "prod-floor-cleaner",
+          "sellingPrice": 89,
+          "status": "AVAILABLE",
+          "size": "500 ML",
+          "variantId": "var-fl-500"
+        }
+      ],
+      "grandTotal": 439,
+      "updatedAt": "2026-10-04T11:52:31.357Z"
+    },
+    {
+      "tracking": {
+        "history": [
+          {
+            "timestamp": "2026-10-04T09:34:18.674Z",
+            "status": "PENDING",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance."
+          },
+          {
+            "note": "Order confirmed and accepted by store. Central inventory deducted.",
+            "timestamp": "2026-10-04T09:34:18.836Z",
+            "status": "ACCEPTED"
+          },
+          {
+            "timestamp": "2026-10-04T09:34:19.085Z",
+            "note": "Items inspected, verified, and sealed in warehouse packaging.",
+            "status": "PACKAGING"
+          },
+          {
+            "timestamp": "2026-10-04T09:34:19.140Z",
+            "note": "Dispatched with logistics courier. Out for delivery.",
+            "status": "OUT_FOR_DELIVERY"
+          },
+          {
+            "status": "DELIVERED",
+            "note": "Package delivered successfully to customer address.",
+            "timestamp": "2026-10-04T09:34:19.205Z"
+          },
+          {
+            "note": "Order cancelled.",
+            "status": "CANCELLED",
+            "timestamp": "2026-10-04T10:22:41.277Z"
+          }
+        ],
+        "status": "CANCELLED",
+        "updatedAt": "2026-10-04T10:22:41.277Z",
+        "expectedDelivery": "4–5 Days"
+      },
+      "id": "CLZ-20261004-0023",
+      "notes": "Order for customer reference: TEST_CUSTOMER_ID",
+      "customerId": "TEST_CUSTOMER_ID",
+      "updatedAt": "2026-10-04T10:22:41.277Z",
+      "deliveredAt": "2026-10-04T09:34:19.205Z",
+      "paidAt": "2026-10-04T09:34:19.205Z",
+      "status": "CANCELLED",
+      "sourceUrl": "/order?ref=TEST_CUSTOMER_ID",
+      "packagingAt": "2026-10-04T09:34:19.085Z",
+      "finalRevenue": 0,
+      "cancelledAt": "2026-10-04T10:22:41.277Z",
+      "customerPhone": "9896931763",
+      "acceptedAt": "2026-10-04T09:34:18.836Z",
+      "items": [
+        {
+          "sellingPrice": 95,
+          "variantId": "var-gs-500",
+          "status": "AVAILABLE",
+          "size": "500 ML",
+          "mrp": 115,
+          "subtotal": 190,
+          "productId": "prod-glass-shiner",
+          "quantity": 2,
+          "productName": "TAGE Clining Glass & Mirror Shiner"
+        },
+        {
+          "mrp": 105,
+          "subtotal": 89,
+          "productId": "prod-floor-cleaner",
+          "size": "500 ML",
+          "quantity": 1,
+          "status": "AVAILABLE",
+          "productName": "TAGE Clining Floor Cleaner",
+          "sellingPrice": 89,
+          "variantId": "var-fl-500"
+        }
+      ],
+      "outForDeliveryAt": "2026-10-04T09:34:19.140Z",
+      "grandTotal": 279,
+      "createdAt": "2026-10-04T09:34:18.674Z",
+      "customerAddress": "Plot 45, Sector 18, Vashi, Navi Mumbai, Maharashtra - 400703",
+      "customerName": "Test Customer",
+      "paymentStatus": "PAID",
+      "deliveredRevenue": 279
+    },
+    {
+      "customerPhone": "9944556677",
+      "id": "CLZ-20261004-0024",
+      "sourceUrl": "/order?ref=TEST_CUSTOMER_ID",
+      "customerName": "Test Customer",
+      "grandTotal": 199,
+      "createdAt": "2026-10-04T09:37:49.190Z",
+      "items": [
+        {
+          "mrp": 65,
+          "productName": "TAGE Clining Glass & Mirror Shiner",
+          "productId": "prod-glass-shiner",
+          "status": "AVAILABLE",
+          "quantity": 2,
+          "sellingPrice": 55,
+          "size": "250 ML",
+          "variantId": "var-gs-250",
+          "subtotal": 110
+        },
+        {
+          "sellingPrice": 89,
+          "variantId": "var-fl-500",
+          "size": "500 ML",
+          "mrp": 105,
+          "status": "AVAILABLE",
+          "productName": "TAGE Clining Floor Cleaner",
+          "quantity": 1,
+          "subtotal": 89,
+          "productId": "prod-floor-cleaner"
+        }
+      ],
+      "status": "CANCELLED",
+      "tracking": {
+        "status": "CANCELLED",
+        "history": [
+          {
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "timestamp": "2026-10-04T09:37:49.190Z",
+            "status": "PENDING"
+          },
+          {
+            "status": "CANCELLED",
+            "timestamp": "2026-10-04T11:52:24.721Z",
+            "note": "Order cancelled before acceptance."
+          }
+        ],
+        "expectedDelivery": "4–5 Days",
+        "updatedAt": "2026-10-04T11:52:24.721Z"
+      },
+      "customerId": "TEST_CUSTOMER_ID",
+      "customerAddress": "45/2, Anna Salai, T. Nagar, Chennai, Tamil Nadu - 600017",
+      "updatedAt": "2026-10-04T11:52:24.721Z",
+      "notes": "Order for customer reference: TEST_CUSTOMER_ID",
+      "cancelledAt": "2026-10-04T11:52:24.721Z"
+    },
+    {
+      "notes": "Order for customer reference: TEST_CUSTOMER_ID",
+      "updatedAt": "2026-10-04T11:52:16.335Z",
+      "cancelledAt": "2026-10-04T11:52:16.335Z",
+      "customerName": "Test Customer",
+      "customerAddress": "12, Shanti Kunj, FC Road, Shivajinagar, Pune, Maharashtra - 411005",
+      "grandTotal": 408,
+      "customerId": "TEST_CUSTOMER_ID",
+      "createdAt": "2026-10-04T09:58:02.024Z",
+      "status": "CANCELLED",
+      "items": [
+        {
+          "size": "1 Litre",
+          "subtotal": 298,
+          "productId": "prod-floor-cleaner",
+          "quantity": 2,
+          "status": "AVAILABLE",
+          "mrp": 180,
+          "variantId": "var-fl-1000",
+          "productName": "TAGE Clining Floor Cleaner",
+          "sellingPrice": 149
+        },
+        {
+          "mrp": 65,
+          "productName": "TAGE Clining Glass & Mirror Shiner",
+          "variantId": "var-gs-250",
+          "size": "250 ML",
+          "status": "AVAILABLE",
+          "subtotal": 110,
+          "productId": "prod-glass-shiner",
+          "quantity": 2,
+          "sellingPrice": 55
+        }
+      ],
+      "sourceUrl": "/order?ref=TEST_CUSTOMER_ID",
+      "tracking": {
+        "updatedAt": "2026-10-04T11:52:16.335Z",
+        "expectedDelivery": "4–5 Days",
+        "history": [
+          {
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "status": "PENDING",
+            "timestamp": "2026-10-04T09:58:02.024Z"
+          },
+          {
+            "note": "Order cancelled before acceptance.",
+            "status": "CANCELLED",
+            "timestamp": "2026-10-04T11:52:16.335Z"
+          }
+        ],
+        "status": "CANCELLED"
+      },
+      "customerPhone": "9822334455",
+      "id": "CLZ-20261004-0025"
+    },
+    {
+      "status": "CANCELLED",
+      "grandTotal": 178,
+      "tracking": {
+        "status": "CANCELLED",
+        "history": [
+          {
+            "timestamp": "2026-10-04T10:40:25.461Z",
+            "status": "PENDING",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance."
+          },
+          {
+            "timestamp": "2026-10-04T11:52:12.946Z",
+            "status": "CANCELLED",
+            "note": "Order cancelled before acceptance."
+          }
+        ],
+        "updatedAt": "2026-10-04T11:52:12.946Z",
+        "expectedDelivery": "4–5 Days"
+      },
+      "id": "CLZ-20261004-0026",
+      "notes": "",
+      "updatedAt": "2026-10-04T11:52:12.946Z",
+      "cancelledAt": "2026-10-04T11:52:12.946Z",
+      "customerAddress": "Flat 402, Green Acres, Baner, Pune - 411045",
+      "sourceUrl": "/order",
+      "customerName": "Rohan Kulkarni",
+      "createdAt": "2026-10-04T10:40:25.461Z",
+      "items": [
+        {
+          "sellingPrice": 89,
+          "productId": "prod-floor-cleaner",
+          "size": "500 ML",
+          "productName": "TAGE Clining Floor Cleaner",
+          "subtotal": 178,
+          "status": "AVAILABLE",
+          "variantId": "var-fl-500",
+          "quantity": 2,
+          "mrp": 105
+        }
+      ],
+      "customerPhone": "9822001122"
+    },
+    {
+      "deliveredAt": "2026-10-04T10:40:46.922Z",
+      "paymentStatus": "PAID",
+      "deliveredRevenue": 178,
+      "createdAt": "2026-10-04T10:40:46.117Z",
+      "customerAddress": "Flat 402, Green Acres, Baner, Pune - 411045",
+      "id": "CLZ-20261004-0027",
+      "customerPhone": "9822001122",
+      "outForDeliveryAt": "2026-10-04T10:40:46.845Z",
+      "notes": "",
+      "sourceUrl": "/order",
+      "tracking": {
+        "history": [
+          {
+            "timestamp": "2026-10-04T10:40:46.117Z",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "status": "PENDING"
+          },
+          {
+            "status": "ACCEPTED",
+            "note": "Order confirmed and accepted by store. Central inventory deducted.",
+            "timestamp": "2026-10-04T10:40:46.569Z"
+          },
+          {
+            "status": "PACKAGING",
+            "note": "Items inspected, verified, and sealed in warehouse packaging.",
+            "timestamp": "2026-10-04T10:40:46.749Z"
+          },
+          {
+            "note": "Dispatched with logistics courier. Out for delivery.",
+            "status": "OUT_FOR_DELIVERY",
+            "timestamp": "2026-10-04T10:40:46.845Z"
+          },
+          {
+            "timestamp": "2026-10-04T10:40:46.922Z",
+            "status": "DELIVERED",
+            "note": "Package delivered successfully to customer address."
+          },
+          {
+            "timestamp": "2026-10-05T05:20:39.384Z",
+            "status": "CANCELLED",
+            "note": "Order cancelled by store owner."
+          }
+        ],
+        "expectedDelivery": "4–5 Days",
+        "status": "CANCELLED",
+        "updatedAt": "2026-10-05T05:20:39.384Z"
+      },
+      "status": "CANCELLED",
+      "paidAt": "2026-10-04T10:40:46.922Z",
+      "acceptedAt": "2026-10-04T10:40:46.569Z",
+      "updatedAt": "2026-10-05T05:20:39.384Z",
+      "customerName": "Rohan Kulkarni",
+      "items": [
+        {
+          "sellingPrice": 89,
+          "variantId": "var-fl-500",
+          "subtotal": 178,
+          "quantity": 2,
+          "productName": "TAGE Clining Floor Cleaner",
+          "size": "500 ML",
+          "mrp": 105,
+          "status": "AVAILABLE",
+          "productId": "prod-floor-cleaner"
+        }
+      ],
+      "finalRevenue": 0,
+      "packagingAt": "2026-10-04T10:40:46.749Z",
+      "cancelledAt": "2026-10-05T05:20:39.384Z",
+      "grandTotal": 178
+    },
+    {
+      "sourceUrl": "/order",
+      "createdAt": "2026-10-04T10:40:47.082Z",
+      "items": [
+        {
+          "productId": "prod-floor-cleaner",
+          "mrp": 60,
+          "status": "AVAILABLE",
+          "quantity": 1,
+          "size": "250 ML",
+          "subtotal": 49,
+          "sellingPrice": 49,
+          "productName": "TAGE Clining Floor Cleaner",
+          "variantId": "var-fl-250"
+        }
+      ],
+      "grandTotal": 49,
+      "tracking": {
+        "history": [
+          {
+            "timestamp": "2026-10-04T10:40:47.082Z",
+            "status": "PENDING",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance."
+          },
+          {
+            "note": "Order cancelled before acceptance.",
+            "status": "CANCELLED",
+            "timestamp": "2026-10-04T11:52:10.088Z"
+          }
+        ],
+        "status": "CANCELLED",
+        "updatedAt": "2026-10-04T11:52:10.088Z",
+        "expectedDelivery": "4–5 Days"
+      },
+      "cancelledAt": "2026-10-04T11:52:10.088Z",
+      "notes": "",
+      "customerAddress": "Flat 12B, Marine Drive, Mumbai",
+      "id": "CLZ-20261004-0028",
+      "status": "CANCELLED",
+      "customerPhone": "9811223344",
+      "updatedAt": "2026-10-04T11:52:10.088Z",
+      "customerName": "Ayesha Khan"
+    },
+    {
+      "createdAt": "2026-10-04T10:59:45.012Z",
+      "customerAddress": "Flat 4B, Park Street, Kolkata",
+      "customerName": "Subhajit Mukherjee",
+      "notes": "",
+      "sourceUrl": "",
+      "status": "CANCELLED",
+      "tracking": {
+        "history": [
+          {
+            "timestamp": "2026-10-04T10:59:45.012Z",
+            "status": "PENDING",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance."
+          },
+          {
+            "status": "ACCEPTED",
+            "timestamp": "2026-10-04T10:59:53.017Z",
+            "note": "Order confirmed and accepted by store. Central inventory deducted."
+          },
+          {
+            "status": "CANCELLED",
+            "note": "Test order cancellation",
+            "timestamp": "2026-10-04T10:59:57.311Z"
+          }
+        ],
+        "updatedAt": "2026-10-04T10:59:57.311Z",
+        "expectedDelivery": "4–5 Days",
+        "status": "CANCELLED"
+      },
+      "acceptedAt": "2026-10-04T10:59:53.017Z",
+      "id": "CLZ-20261004-0029",
+      "updatedAt": "2026-10-04T10:59:57.311Z",
+      "cancelledAt": "2026-10-04T10:59:57.311Z",
+      "customerPhone": "9876543210",
+      "grandTotal": 49,
+      "items": [
+        {
+          "subtotal": 49,
+          "status": "AVAILABLE",
+          "productName": "TAGE Clining Floor Cleaner",
+          "sellingPrice": 49,
+          "variantId": "var-fl-250",
+          "quantity": 1,
+          "mrp": 60,
+          "productId": "prod-floor-cleaner",
+          "size": "250 ML"
+        }
+      ]
+    },
+    {
+      "status": "CANCELLED",
+      "sourceUrl": "/order?ref=TEST_CUSTOMER_ID",
+      "customerId": "TEST_CUSTOMER_ID",
+      "items": [
+        {
+          "quantity": 1,
+          "productId": "prod-floor-cleaner",
+          "productName": "TAGE Clining Floor Cleaner",
+          "status": "AVAILABLE",
+          "mrp": 60,
+          "subtotal": 49,
+          "variantId": "var-fl-250",
+          "sellingPrice": 49,
+          "size": "250 ML"
+        },
+        {
+          "status": "AVAILABLE",
+          "subtotal": 110,
+          "productName": "TAGE Clining Glass & Mirror Shiner",
+          "sellingPrice": 55,
+          "quantity": 2,
+          "mrp": 65,
+          "variantId": "var-gs-250",
+          "productId": "prod-glass-shiner",
+          "size": "250 ML"
+        }
+      ],
+      "createdAt": "2026-10-05T06:25:07.883Z",
+      "customerPhone": "9811234567",
+      "tracking": {
+        "updatedAt": "2026-10-05T12:01:38.236Z",
+        "status": "CANCELLED",
+        "expectedDelivery": "4–5 Days",
+        "history": [
+          {
+            "status": "PENDING",
+            "timestamp": "2026-10-05T06:25:07.883Z",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance."
+          },
+          {
+            "note": "Order cancelled by store owner.",
+            "timestamp": "2026-10-05T12:01:38.236Z",
+            "status": "CANCELLED"
+          }
+        ]
+      },
+      "id": "CLZ-20261005-0030",
+      "grandTotal": 159,
+      "updatedAt": "2026-10-05T12:01:38.236Z",
+      "customerAddress": "B-204, Green Heights, Indirapuram, Ghaziabad, UP - 201014",
+      "cancelledAt": "2026-10-05T12:01:38.236Z",
+      "customerName": "Test Customer",
+      "notes": "Order for customer reference: TEST_CUSTOMER_ID"
+    },
+    {
+      "grandTotal": 49,
+      "updatedAt": "2026-10-06T04:47:26.735Z",
+      "cancelledAt": "2026-10-06T04:47:26.735Z",
+      "tracking": {
+        "status": "CANCELLED",
+        "history": [
+          {
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "timestamp": "2026-10-05T12:02:41.388Z",
+            "status": "PENDING"
+          },
+          {
+            "timestamp": "2026-10-06T04:47:26.735Z",
+            "status": "CANCELLED",
+            "note": "Order cancelled before acceptance."
+          }
+        ],
+        "expectedDelivery": "4–5 Days",
+        "updatedAt": "2026-10-06T04:47:26.735Z"
+      },
+      "customerPhone": "9820011223",
+      "items": [
+        {
+          "productId": "prod-floor-cleaner",
+          "subtotal": 49,
+          "productName": "TAGE Clining Floor Cleaner",
+          "quantity": 1,
+          "mrp": 60,
+          "size": "250 ML",
+          "sellingPrice": 49,
+          "variantId": "var-fl-250",
+          "status": "AVAILABLE"
+        }
+      ],
+      "createdAt": "2026-10-05T12:02:41.388Z",
+      "customerAddress": "Shop 4, Market Road, Mumbai",
+      "customerName": "Ramesh Kumar",
+      "notes": "",
+      "id": "CLZ-20261005-0031",
+      "status": "CANCELLED",
+      "sourceUrl": ""
+    },
+    {
+      "status": "CANCELLED",
+      "customerId": "VIP_CLIENT",
+      "notes": "",
+      "customerName": "WhatsApp Test Customer",
+      "updatedAt": "2026-10-06T04:47:14.533Z",
+      "tracking": {
+        "expectedDelivery": "4–5 Days",
+        "status": "CANCELLED",
+        "updatedAt": "2026-10-06T04:47:14.533Z",
+        "history": [
+          {
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "timestamp": "2026-10-05T12:32:47.170Z",
+            "status": "PENDING"
+          },
+          {
+            "status": "CANCELLED",
+            "note": "Order cancelled before acceptance.",
+            "timestamp": "2026-10-06T04:47:14.533Z"
+          }
+        ]
+      },
+      "customerAddress": "Shop 12, MG Road, Mumbai",
+      "customerPhone": "9876543210",
+      "items": [
+        {
+          "productId": "prod-floor-cleaner",
+          "status": "AVAILABLE",
+          "quantity": 1,
+          "subtotal": 49,
+          "mrp": 60,
+          "variantId": "var-fl-250",
+          "sellingPrice": 49,
+          "productName": "TAGE Clining Floor Cleaner",
+          "size": "250 ML"
+        }
+      ],
+      "sourceUrl": "/order?ref=VIP_CLIENT&src=whatsapp",
+      "cancelledAt": "2026-10-06T04:47:14.533Z",
+      "grandTotal": 49,
+      "createdAt": "2026-10-05T12:32:47.170Z",
+      "id": "CLZ-20261005-0032"
+    },
+    {
+      "notes": "",
+      "createdAt": "2026-10-06T05:07:35.646Z",
+      "id": "CLZ-20261006-0033",
+      "acceptedAt": "2026-10-06T05:07:59.601Z",
+      "customerPhone": "9832928334",
+      "grandTotal": 49,
+      "packagingAt": "2026-10-06T05:08:35.964Z",
+      "sourceUrl": "/order?ref=VIP_CLIENT",
+      "customerAddress": "Somra bazar, jashra , Hooghly (Landmark: Jashra durga tola)",
+      "paymentStatus": "PENDING",
+      "paidAt": "2026-10-06T10:50:50.750Z",
+      "status": "OUT_FOR_DELIVERY",
+      "updatedAt": "2026-10-06T10:50:53.794Z",
+      "outForDeliveryAt": "2026-10-06T05:08:55.133Z",
+      "tracking": {
+        "expectedDelivery": "4–5 Days",
+        "status": "OUT_FOR_DELIVERY",
+        "history": [
+          {
+            "timestamp": "2026-10-06T05:07:35.646Z",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "status": "PENDING"
+          },
+          {
+            "note": "Order confirmed and accepted by store. Central inventory deducted.",
+            "status": "ACCEPTED",
+            "timestamp": "2026-10-06T05:07:59.601Z"
+          },
+          {
+            "status": "PACKAGING",
+            "note": "Items inspected, verified, and sealed in warehouse packaging.",
+            "timestamp": "2026-10-06T05:08:35.964Z"
+          },
+          {
+            "status": "OUT_FOR_DELIVERY",
+            "timestamp": "2026-10-06T05:08:55.133Z",
+            "note": "Dispatched with logistics courier. Out for delivery."
+          }
+        ],
+        "updatedAt": "2026-10-06T05:08:55.133Z"
+      },
+      "customerId": "VIP_CLIENT",
+      "items": [
+        {
+          "sellingPrice": 49,
+          "mrp": 60,
+          "status": "AVAILABLE",
+          "size": "250 ML",
+          "variantId": "var-fl-250",
+          "subtotal": 49,
+          "productName": "TAGE Clining Floor Cleaner",
+          "productId": "prod-floor-cleaner",
+          "quantity": 1
+        }
+      ],
+      "customerName": "Rintu Halder",
+      "idempotencyKey": "idemp_1791263254504_oyq6fo6"
+    },
+    {
+      "updatedAt": "2026-10-06T09:13:20.957Z",
+      "customerPhone": "9876543210",
+      "paidAt": "2026-10-06T08:43:55.811Z",
+      "deliveredAt": "2026-10-06T08:43:55.811Z",
+      "status": "CANCELLED",
+      "outForDeliveryAt": "2026-10-06T08:43:55.384Z",
+      "items": [
+        {
+          "productId": "prod-floor-cleaner",
+          "status": "AVAILABLE",
+          "quantity": 1,
+          "subtotal": 500,
+          "sellingPrice": 500,
+          "productName": "TAGE Clining Floor Cleaner",
+          "variantId": "var-1791271319183-4egz",
+          "size": "500ml",
+          "mrp": 110
+        }
+      ],
+      "paymentStatus": "PAID",
+      "revenueContribution": 0,
+      "deliveredRevenue": 500,
+      "createdAt": "2026-10-06T08:43:54.926Z",
+      "customerName": "Test Customer 1",
+      "notes": "",
+      "grandTotal": 500,
+      "tracking": {
+        "history": [
+          {
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "status": "PENDING",
+            "timestamp": "2026-10-06T08:43:54.926Z"
+          },
+          {
+            "timestamp": "2026-10-06T08:43:55.076Z",
+            "status": "ACCEPTED",
+            "note": "Order confirmed and accepted by store. Central inventory deducted."
+          },
+          {
+            "timestamp": "2026-10-06T08:43:55.281Z",
+            "status": "PACKAGING",
+            "note": "Items inspected, verified, and sealed in warehouse packaging."
+          },
+          {
+            "note": "Dispatched with logistics courier. Out for delivery.",
+            "timestamp": "2026-10-06T08:43:55.384Z",
+            "status": "OUT_FOR_DELIVERY"
+          },
+          {
+            "note": "Package delivered successfully to customer address.",
+            "timestamp": "2026-10-06T08:43:55.477Z",
+            "status": "DELIVERED"
+          },
+          {
+            "note": "Package delivered successfully to customer address.",
+            "timestamp": "2026-10-06T08:43:55.636Z",
+            "status": "DELIVERED"
+          },
+          {
+            "note": "Items inspected, verified, and sealed in warehouse packaging.",
+            "status": "PACKAGING",
+            "timestamp": "2026-10-06T08:43:55.706Z"
+          },
+          {
+            "status": "DELIVERED",
+            "note": "Package delivered successfully to customer address.",
+            "timestamp": "2026-10-06T08:43:55.811Z"
+          },
+          {
+            "timestamp": "2026-10-06T09:13:20.957Z",
+            "note": "Order cancelled by store owner.",
+            "status": "CANCELLED"
+          }
+        ],
+        "status": "CANCELLED",
+        "expectedDelivery": "4–5 Days",
+        "updatedAt": "2026-10-06T09:13:20.957Z"
+      },
+      "customerAddress": "123 Test Street, Kolkata",
+      "id": "CLZ-20261006-0034",
+      "revenueProcessedAt": "2026-10-06T08:43:55.811Z",
+      "acceptedAt": "2026-10-06T08:43:55.076Z",
+      "cancelledAt": "2026-10-06T09:13:20.957Z",
+      "packagingAt": "2026-10-06T08:43:55.706Z",
+      "sourceUrl": "",
+      "revenueCounted": false,
+      "finalRevenue": 0
+    },
+    {
+      "revenueProcessedAt": "2026-10-06T08:43:56.331Z",
+      "customerPhone": "9876543211",
+      "grandTotal": 700,
+      "createdAt": "2026-10-06T08:43:56.230Z",
+      "tracking": {
+        "updatedAt": "2026-10-06T09:13:18.397Z",
+        "history": [
+          {
+            "status": "PENDING",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "timestamp": "2026-10-06T08:43:56.230Z"
+          },
+          {
+            "note": "Package delivered successfully to customer address.",
+            "timestamp": "2026-10-06T08:43:56.331Z",
+            "status": "DELIVERED"
+          },
+          {
+            "status": "CANCELLED",
+            "timestamp": "2026-10-06T09:13:18.397Z",
+            "note": "Order cancelled by store owner."
+          }
+        ],
+        "expectedDelivery": "4–5 Days",
+        "status": "CANCELLED"
+      },
+      "deliveredAt": "2026-10-06T08:43:56.331Z",
+      "paymentStatus": "PAID",
+      "sourceUrl": "",
+      "deliveredRevenue": 700,
+      "notes": "",
+      "customerAddress": "456 Test Road, Kolkata",
+      "id": "CLZ-20261006-0035",
+      "revenueContribution": 0,
+      "cancelledAt": "2026-10-06T09:13:18.397Z",
+      "updatedAt": "2026-10-06T09:13:18.397Z",
+      "finalRevenue": 0,
+      "status": "CANCELLED",
+      "customerName": "Test Customer 2",
+      "items": [
+        {
+          "mrp": 110,
+          "variantId": "var-1791271319183-4egz",
+          "productName": "TAGE Clining Floor Cleaner",
+          "sellingPrice": 700,
+          "status": "AVAILABLE",
+          "productId": "prod-floor-cleaner",
+          "quantity": 1,
+          "size": "500ml",
+          "subtotal": 700
+        }
+      ],
+      "paidAt": "2026-10-06T08:43:56.331Z",
+      "revenueCounted": false
+    },
+    {
+      "grandTotal": 100,
+      "id": "CLZ-20261006-0036",
+      "updatedAt": "2026-10-06T09:13:13.434Z",
+      "paymentStatus": "PAID",
+      "customerAddress": "789 Heritage Lane, Kolkata",
+      "revenueContribution": 0,
+      "deliveredRevenue": 100,
+      "revenueCounted": false,
+      "customerPhone": "9876543212",
+      "tracking": {
+        "status": "CANCELLED",
+        "expectedDelivery": "4–5 Days",
+        "history": [
+          {
+            "timestamp": "2026-10-06T08:43:56.500Z",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "status": "PENDING"
+          },
+          {
+            "timestamp": "2026-10-06T08:43:56.618Z",
+            "status": "DELIVERED",
+            "note": "Package delivered successfully to customer address."
+          },
+          {
+            "timestamp": "2026-10-06T09:13:13.434Z",
+            "note": "Order cancelled by store owner.",
+            "status": "CANCELLED"
+          }
+        ],
+        "updatedAt": "2026-10-06T09:13:13.434Z"
+      },
+      "cancelledAt": "2026-10-06T09:13:13.434Z",
+      "notes": "",
+      "deliveredAt": "2026-10-06T08:43:56.618Z",
+      "customerName": "Test Customer 3",
+      "createdAt": "2026-10-06T08:43:56.500Z",
+      "items": [
+        {
+          "quantity": 1,
+          "variantId": "var-1791271319183-4egz",
+          "size": "500ml",
+          "productName": "TAGE Clining Floor Cleaner",
+          "sellingPrice": 100,
+          "subtotal": 100,
+          "productId": "prod-floor-cleaner",
+          "mrp": 110,
+          "status": "AVAILABLE"
+        }
+      ],
+      "status": "CANCELLED",
+      "paidAt": "2026-10-06T08:43:56.618Z",
+      "finalRevenue": 0,
+      "sourceUrl": "",
+      "revenueProcessedAt": "2026-10-06T08:43:56.618Z"
+    },
+    {
+      "outForDeliveryAt": "2026-10-06T08:44:21.693Z",
+      "items": [
+        {
+          "mrp": 110,
+          "variantId": "var-1791271319183-4egz",
+          "size": "500ml",
+          "quantity": 1,
+          "productName": "TAGE Clining Floor Cleaner",
+          "sellingPrice": 500,
+          "productId": "prod-floor-cleaner",
+          "status": "AVAILABLE",
+          "subtotal": 500
+        }
+      ],
+      "revenueContribution": 0,
+      "customerAddress": "123 Test Street, Kolkata",
+      "sourceUrl": "",
+      "paymentStatus": "PAID",
+      "revenueCounted": false,
+      "id": "CLZ-20261006-0037",
+      "deliveredRevenue": 500,
+      "createdAt": "2026-10-06T08:44:21.323Z",
+      "deliveredAt": "2026-10-06T08:44:22.084Z",
+      "tracking": {
+        "expectedDelivery": "4–5 Days",
+        "updatedAt": "2026-10-06T08:44:22.721Z",
+        "history": [
+          {
+            "status": "PENDING",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "timestamp": "2026-10-06T08:44:21.323Z"
+          },
+          {
+            "timestamp": "2026-10-06T08:44:21.456Z",
+            "note": "Order confirmed and accepted by store. Central inventory deducted.",
+            "status": "ACCEPTED"
+          },
+          {
+            "timestamp": "2026-10-06T08:44:21.600Z",
+            "note": "Items inspected, verified, and sealed in warehouse packaging.",
+            "status": "PACKAGING"
+          },
+          {
+            "timestamp": "2026-10-06T08:44:21.693Z",
+            "status": "OUT_FOR_DELIVERY",
+            "note": "Dispatched with logistics courier. Out for delivery."
+          },
+          {
+            "timestamp": "2026-10-06T08:44:21.766Z",
+            "note": "Package delivered successfully to customer address.",
+            "status": "DELIVERED"
+          },
+          {
+            "timestamp": "2026-10-06T08:44:21.868Z",
+            "note": "Package delivered successfully to customer address.",
+            "status": "DELIVERED"
+          },
+          {
+            "status": "PACKAGING",
+            "note": "Items inspected, verified, and sealed in warehouse packaging.",
+            "timestamp": "2026-10-06T08:44:21.941Z"
+          },
+          {
+            "status": "DELIVERED",
+            "timestamp": "2026-10-06T08:44:22.084Z",
+            "note": "Package delivered successfully to customer address."
+          },
+          {
+            "note": "Order cancelled by store owner.",
+            "timestamp": "2026-10-06T08:44:22.721Z",
+            "status": "CANCELLED"
+          }
+        ],
+        "status": "CANCELLED"
+      },
+      "customerPhone": "9876543210",
+      "grandTotal": 500,
+      "finalRevenue": 0,
+      "cancelledAt": "2026-10-06T08:44:22.721Z",
+      "status": "CANCELLED",
+      "packagingAt": "2026-10-06T08:44:21.941Z",
+      "paidAt": "2026-10-06T08:44:22.084Z",
+      "notes": "",
+      "updatedAt": "2026-10-06T08:44:22.721Z",
+      "revenueProcessedAt": "2026-10-06T08:44:22.084Z",
+      "customerName": "Test Customer 1",
+      "acceptedAt": "2026-10-06T08:44:21.456Z"
+    },
+    {
+      "tracking": {
+        "expectedDelivery": "4–5 Days",
+        "updatedAt": "2026-10-06T08:44:22.814Z",
+        "status": "CANCELLED",
+        "history": [
+          {
+            "status": "PENDING",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "timestamp": "2026-10-06T08:44:22.233Z"
+          },
+          {
+            "timestamp": "2026-10-06T08:44:22.327Z",
+            "note": "Package delivered successfully to customer address.",
+            "status": "DELIVERED"
+          },
+          {
+            "status": "CANCELLED",
+            "note": "Order cancelled by store owner.",
+            "timestamp": "2026-10-06T08:44:22.814Z"
+          }
+        ]
+      },
+      "revenueProcessedAt": "2026-10-06T08:44:22.327Z",
+      "revenueCounted": false,
+      "customerName": "Test Customer 2",
+      "deliveredRevenue": 700,
+      "createdAt": "2026-10-06T08:44:22.233Z",
+      "customerAddress": "456 Test Road, Kolkata",
+      "finalRevenue": 0,
+      "grandTotal": 700,
+      "sourceUrl": "",
+      "id": "CLZ-20261006-0038",
+      "deliveredAt": "2026-10-06T08:44:22.327Z",
+      "items": [
+        {
+          "variantId": "var-1791271319183-4egz",
+          "quantity": 1,
+          "mrp": 110,
+          "subtotal": 700,
+          "size": "500ml",
+          "productId": "prod-floor-cleaner",
+          "status": "AVAILABLE",
+          "productName": "TAGE Clining Floor Cleaner",
+          "sellingPrice": 700
+        }
+      ],
+      "customerPhone": "9876543211",
+      "cancelledAt": "2026-10-06T08:44:22.814Z",
+      "revenueContribution": 0,
+      "updatedAt": "2026-10-06T08:44:22.814Z",
+      "paymentStatus": "PAID",
+      "notes": "",
+      "paidAt": "2026-10-06T08:44:22.327Z",
+      "status": "CANCELLED"
+    },
+    {
+      "finalRevenue": 0,
+      "grandTotal": 100,
+      "paymentStatus": "PAID",
+      "sourceUrl": "",
+      "customerPhone": "9876543212",
+      "deliveredAt": "2026-10-06T08:44:22.602Z",
+      "createdAt": "2026-10-06T08:44:22.471Z",
+      "revenueProcessedAt": "2026-10-06T08:44:22.602Z",
+      "customerName": "Test Customer 3",
+      "notes": "",
+      "status": "CANCELLED",
+      "paidAt": "2026-10-06T08:44:22.602Z",
+      "customerAddress": "789 Heritage Lane, Kolkata",
+      "revenueCounted": false,
+      "revenueContribution": 0,
+      "cancelledAt": "2026-10-06T08:44:22.916Z",
+      "tracking": {
+        "status": "CANCELLED",
+        "updatedAt": "2026-10-06T08:44:22.916Z",
+        "expectedDelivery": "4–5 Days",
+        "history": [
+          {
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "status": "PENDING",
+            "timestamp": "2026-10-06T08:44:22.471Z"
+          },
+          {
+            "timestamp": "2026-10-06T08:44:22.602Z",
+            "note": "Package delivered successfully to customer address.",
+            "status": "DELIVERED"
+          },
+          {
+            "note": "Order cancelled by store owner.",
+            "timestamp": "2026-10-06T08:44:22.916Z",
+            "status": "CANCELLED"
+          }
+        ]
+      },
+      "items": [
+        {
+          "size": "500ml",
+          "quantity": 1,
+          "sellingPrice": 100,
+          "variantId": "var-1791271319183-4egz",
+          "subtotal": 100,
+          "mrp": 110,
+          "status": "AVAILABLE",
+          "productId": "prod-floor-cleaner",
+          "productName": "TAGE Clining Floor Cleaner"
+        }
+      ],
+      "deliveredRevenue": 100,
+      "updatedAt": "2026-10-06T08:44:22.916Z",
+      "id": "CLZ-20261006-0039"
+    },
+    {
+      "packagingAt": "2026-10-09T18:27:07.323Z",
+      "createdAt": "2026-10-09T18:27:06.845Z",
+      "status": "DELIVERED",
+      "notes": "Please call on delivery",
+      "outForDeliveryAt": "2026-10-09T18:27:07.455Z",
+      "paidAt": "2026-10-09T18:27:07.551Z",
+      "grandTotal": 49,
+      "id": "CLZ-20261009-0040",
+      "acceptedAt": "2026-10-09T18:27:07.093Z",
+      "customerAddress": "Flat 402, Green Heights, Andheri East, Mumbai 400069",
+      "sourceUrl": "TAZE CLINING Android Customer App",
+      "deliveredRevenue": 49,
+      "revenueProcessedAt": "2026-10-09T18:27:07.551Z",
+      "paymentStatus": "PAID",
+      "items": [
+        {
+          "productId": "prod-floor-cleaner",
+          "status": "AVAILABLE",
+          "productName": "TAGE Clining Floor Cleaner",
+          "sellingPrice": 49,
+          "mrp": 60,
+          "size": "250 ML",
+          "subtotal": 49,
+          "variantId": "var-fl-250",
+          "quantity": 1
+        }
+      ],
+      "revenueCounted": true,
+      "customerName": "Mohan Lal",
+      "updatedAt": "2026-10-09T18:27:07.551Z",
+      "tracking": {
+        "history": [
+          {
+            "status": "PENDING",
+            "note": "Order submitted by verified customer. Awaiting store review & acceptance.",
+            "timestamp": "2026-10-09T18:27:06.845Z"
+          },
+          {
+            "timestamp": "2026-10-09T18:27:07.093Z",
+            "status": "ACCEPTED",
+            "note": "Order confirmed and accepted by store. Central inventory deducted."
+          },
+          {
+            "note": "Items inspected, verified, and sealed in warehouse packaging.",
+            "status": "PACKAGING",
+            "timestamp": "2026-10-09T18:27:07.323Z"
+          },
+          {
+            "note": "Dispatched with logistics courier. Out for delivery.",
+            "timestamp": "2026-10-09T18:27:07.455Z",
+            "status": "OUT_FOR_DELIVERY"
+          },
+          {
+            "note": "Package delivered successfully to customer address.",
+            "timestamp": "2026-10-09T18:27:07.551Z",
+            "status": "DELIVERED"
+          }
+        ],
+        "status": "DELIVERED",
+        "updatedAt": "2026-10-09T18:27:07.551Z",
+        "expectedDelivery": "4–5 Days"
+      },
+      "customerPhone": "9876543210",
+      "revenueContribution": 49,
+      "customerId": "TAZE CLINING Android Customer App",
+      "finalRevenue": 49,
+      "deliveredAt": "2026-10-09T18:27:07.551Z"
+    }
+  ],
+  "orderCounter": 40,
+  "storeSettings": {
+    "heroTitle": "Clinical Cleanliness.",
+    "brandName": "TAZE CLINING",
+    "customPublicUrl": "",
+    "updatedAt": "2026-10-08T02:27:23.984Z",
+    "heroSubtitle": "Crafted for Homes & Industry.",
+    "tagline": "Pro Hygiene Solutions"
+  },
+  "customRevenue": 0,
+  "manualRevenueOnly": true,
+  "verifiedCustomerIds": [
+    "9242150040",
+    "9811223344",
+    "9811234567",
+    "9896931763",
+    "9944556677",
+    "9822334455"
+  ],
+  "customerProfiles": [
+    {
+      "updatedAt": "2026-10-04T10:01:41.790Z",
+      "name": "Paankaj",
+      "verifiedMobile": "9242150040",
+      "lastLogin": "2026-10-04T10:01:41.790Z",
+      "registeredAt": "2026-10-03T16:31:37.629Z",
+      "verifiedMobileNumber": "9242150040",
+      "phoneVerified": true,
+      "passwordHash": "123456",
+      "customerId": "CUST-9242150040"
+    },
+    {
+      "verifiedMobileNumber": "9811223344",
+      "registeredAt": "2026-10-03T16:11:04.244Z",
+      "referralSource": "DIRECT",
+      "phoneVerified": true,
+      "passwordHash": "secretpass123",
+      "updatedAt": "2026-10-03T16:11:04.244Z",
+      "createdAt": "2026-10-03T16:11:04.244Z",
+      "customerId": "CUST-9811223344",
+      "lastLogin": "2026-10-03T16:11:04.244Z",
+      "name": "Aarav Sharma",
+      "verifiedMobile": "9811223344"
+    },
+    {
+      "lastLogin": "2026-10-05T06:25:07.571Z",
+      "name": "Test Customer",
+      "customerId": "CUST-9811234567",
+      "createdAt": "2026-10-04T09:33:50.579Z",
+      "updatedAt": "2026-10-05T06:25:07.571Z",
+      "referralSource": "ADMIN_TEST_GENERATOR",
+      "phoneVerified": true,
+      "verifiedMobileNumber": "9811234567",
+      "registeredAt": "2026-10-04T09:33:50.579Z",
+      "verifiedMobile": "9811234567"
+    },
+    {
+      "phoneVerified": true,
+      "verifiedMobile": "9820011223",
+      "lastLogin": "2026-10-05T12:02:02.162Z",
+      "name": "Customer",
+      "updatedAt": "2026-10-05T12:02:02.162Z",
+      "registeredAt": "2026-10-05T12:02:02.162Z",
+      "verifiedMobileNumber": "9820011223",
+      "passwordHash": "",
+      "customerId": "CUST-9820011223"
+    },
+    {
+      "name": "Test Customer",
+      "phoneVerified": true,
+      "referralSource": "ADMIN_TEST_GENERATOR",
+      "customerId": "CUST-9822334455",
+      "verifiedMobile": "9822334455",
+      "updatedAt": "2026-10-04T09:58:01.802Z",
+      "createdAt": "2026-10-04T09:58:01.802Z",
+      "registeredAt": "2026-10-04T09:58:01.802Z",
+      "verifiedMobileNumber": "9822334455",
+      "lastLogin": "2026-10-04T09:58:01.802Z"
+    },
+    {
+      "registeredAt": "2026-10-04T09:34:18.449Z",
+      "verifiedMobile": "9896931763",
+      "customerId": "CUST-9896931763",
+      "verifiedMobileNumber": "9896931763",
+      "phoneVerified": true,
+      "name": "Test Customer",
+      "referralSource": "ADMIN_TEST_GENERATOR",
+      "updatedAt": "2026-10-04T09:34:18.449Z",
+      "createdAt": "2026-10-04T09:34:18.449Z",
+      "lastLogin": "2026-10-04T09:34:18.449Z"
+    },
+    {
+      "updatedAt": "2026-10-04T09:37:48.942Z",
+      "createdAt": "2026-10-03T16:33:40.976Z",
+      "phoneVerified": true,
+      "referralSource": "ADMIN_TEST_GENERATOR",
+      "lastLogin": "2026-10-04T09:37:48.942Z",
+      "verifiedMobileNumber": "9944556677",
+      "customerId": "CUST-9944556677",
+      "registeredAt": "2026-10-03T16:33:40.976Z",
+      "verifiedMobile": "9944556677",
+      "name": "Test Customer"
+    }
+  ],
+  "stockAudit": [
+    {
+      "id": "SA-1791570427094-5193",
+      "productId": "prod-floor-cleaner",
+      "size": "250 ML",
+      "reason": "Order #CLZ-20261009-0040 accepted by Owner",
+      "previousStock": 1,
+      "orderId": "CLZ-20261009-0040",
+      "variantId": "var-fl-250",
+      "actor": "OWNER",
+      "productName": "TAGE Clining Floor Cleaner",
+      "newStock": 0,
+      "quantityChanged": -1,
+      "timestamp": "2026-10-09T18:27:07.094Z"
+    },
+    {
+      "reason": "Order #CLZ-20261006-0037 accepted by Owner",
+      "orderId": "CLZ-20261006-0037",
+      "actor": "OWNER",
+      "quantityChanged": -1,
+      "size": "500ml",
+      "productId": "prod-floor-cleaner",
+      "previousStock": 14,
+      "productName": "TAGE Clining Floor Cleaner",
+      "timestamp": "2026-10-06T08:44:21.456Z",
+      "id": "SA-1791276261456-9498",
+      "variantId": "var-1791271319183-4egz",
+      "newStock": 13
+    },
+    {
+      "id": "SA-1791276235076-5418",
+      "quantityChanged": -1,
+      "size": "500ml",
+      "previousStock": 15,
+      "timestamp": "2026-10-06T08:43:55.076Z",
+      "variantId": "var-1791271319183-4egz",
+      "reason": "Order #CLZ-20261006-0034 accepted by Owner",
+      "actor": "OWNER",
+      "orderId": "CLZ-20261006-0034",
+      "productName": "TAGE Clining Floor Cleaner",
+      "productId": "prod-floor-cleaner",
+      "newStock": 14
+    },
+    {
+      "previousStock": 16,
+      "variantId": "var-1791271319183-4egz",
+      "newStock": 15,
+      "timestamp": "2026-10-06T08:43:04.401Z",
+      "orderId": "CLZ-20261006-0034",
+      "productName": "TAGE Clining Floor Cleaner",
+      "id": "SA-1791276184401-3248",
+      "productId": "prod-floor-cleaner",
+      "size": "500ml",
+      "reason": "Order #CLZ-20261006-0034 accepted by Owner",
+      "quantityChanged": -1,
+      "actor": "OWNER"
+    },
+    {
+      "productId": "prod-floor-cleaner",
+      "previousStock": 17,
+      "newStock": 16,
+      "orderId": "CLZ-20261001-0001",
+      "quantityChanged": -1,
+      "variantId": "var-fl-500",
+      "timestamp": "2026-10-06T05:08:06.087Z",
+      "reason": "Order #CLZ-20261001-0001 accepted by Owner",
+      "id": "SA-1791263286087-8491",
+      "size": "500 ML",
+      "productName": "TAGE Clining Floor Cleaner",
+      "actor": "OWNER"
+    },
+    {
+      "actor": "OWNER",
+      "previousStock": 15,
+      "size": "250 ML",
+      "productName": "TAGE Clining Floor Cleaner",
+      "productId": "prod-floor-cleaner",
+      "orderId": "CLZ-20261006-0033",
+      "reason": "Order #CLZ-20261006-0033 accepted by Owner",
+      "id": "SA-1791263279602-9850",
+      "quantityChanged": -1,
+      "variantId": "var-fl-250",
+      "newStock": 14,
+      "timestamp": "2026-10-06T05:07:59.602Z"
+    },
+    {
+      "productName": "TAGE Clining Floor Cleaner",
+      "orderId": "CLZ-20261004-0029",
+      "previousStock": 15,
+      "quantityChanged": -1,
+      "timestamp": "2026-10-04T10:59:53.017Z",
+      "reason": "Order #CLZ-20261004-0029 accepted by Owner",
+      "id": "SA-1791111593017-8235",
+      "variantId": "var-fl-250",
+      "newStock": 14,
+      "actor": "OWNER",
+      "size": "250 ML",
+      "productId": "prod-floor-cleaner"
+    },
+    {
+      "timestamp": "2026-10-04T10:40:46.569Z",
+      "actor": "OWNER",
+      "size": "500 ML",
+      "variantId": "var-fl-500",
+      "quantityChanged": -2,
+      "id": "SA-1791110446569-6548",
+      "reason": "Order #CLZ-20261004-0027 accepted by Owner",
+      "previousStock": 24,
+      "productName": "TAGE Clining Floor Cleaner",
+      "newStock": 22,
+      "productId": "prod-floor-cleaner",
+      "orderId": "CLZ-20261004-0027"
+    },
+    {
+      "previousStock": 25,
+      "variantId": "var-fl-500",
+      "quantityChanged": -1,
+      "actor": "OWNER",
+      "size": "500 ML",
+      "productName": "TAGE Clining Floor Cleaner",
+      "timestamp": "2026-10-04T09:34:18.876Z",
+      "orderId": "CLZ-20261004-0023",
+      "newStock": 24,
+      "id": "SA-1791106458876-3215",
+      "reason": "Order #CLZ-20261004-0023 accepted by Owner",
+      "productId": "prod-floor-cleaner"
+    },
+    {
+      "variantId": "var-gs-500",
+      "newStock": 18,
+      "reason": "Order #CLZ-20261004-0023 accepted by Owner",
+      "orderId": "CLZ-20261004-0023",
+      "productName": "TAGE Clining Glass & Mirror Shiner",
+      "actor": "OWNER",
+      "timestamp": "2026-10-04T09:34:18.836Z",
+      "id": "SA-1791106458836-3000",
+      "productId": "prod-glass-shiner",
+      "previousStock": 20,
+      "size": "500 ML",
+      "quantityChanged": -2
+    },
+    {
+      "quantityChanged": 1,
+      "variantId": "var-gs-500",
+      "timestamp": "2026-10-03T16:33:16.487Z",
+      "newStock": 20,
+      "productName": "TAGE Clining Glass & Mirror Shiner",
+      "id": "SA-1791045196487-5959",
+      "productId": "prod-glass-shiner",
+      "previousStock": 19,
+      "reason": "Item marked OUT_OF_STOCK in Order #CLZ-20261003-0020 - stock restored",
+      "orderId": "CLZ-20261003-0020",
+      "size": "500 ML",
+      "actor": "OWNER"
+    },
+    {
+      "productId": "prod-glass-shiner",
+      "quantityChanged": -1,
+      "previousStock": 20,
+      "reason": "Order #CLZ-20261003-0020 accepted by Owner",
+      "size": "500 ML",
+      "id": "SA-1791043873240-2421",
+      "variantId": "var-gs-500",
+      "orderId": "CLZ-20261003-0020",
+      "actor": "OWNER",
+      "newStock": 19,
+      "timestamp": "2026-10-03T16:11:13.240Z",
+      "productName": "TAGE Clining Glass & Mirror Shiner"
+    }
+  ],
+  "revenueAudit": [
+    {
+      "id": "RA-1791570427553-3853",
+      "actor": "SYSTEM",
+      "reason": "Order #CLZ-20261009-0040 marked DELIVERED - automatic revenue of ₹49 generated",
+      "orderId": "CLZ-20261009-0040",
+      "previousTotal": 49,
+      "timestamp": "2026-10-09T18:27:07.553Z",
+      "amount": 49,
+      "newTotal": 98,
+      "type": "AUTOMATIC_DELIVERED"
+    },
+    {
+      "actor": "SYSTEM",
+      "previousTotal": 0,
+      "amount": -49,
+      "id": "RA-1791278004985-2640",
+      "orderId": "CLZ-20261003-0017",
+      "newTotal": 0,
+      "reason": "Order #CLZ-20261003-0017 status changed from DELIVERED to CANCELLED - revenue of ₹49 reversed",
+      "timestamp": "2026-10-06T09:13:24.985Z",
+      "type": "MANUAL_ADJUSTMENT"
+    },
+    {
+      "previousTotal": 49,
+      "orderId": "CLZ-20261006-0034",
+      "type": "MANUAL_ADJUSTMENT",
+      "amount": -500,
+      "id": "RA-1791278000957-8794",
+      "reason": "Order #CLZ-20261006-0034 status changed from DELIVERED to CANCELLED - revenue of ₹500 reversed",
+      "timestamp": "2026-10-06T09:13:20.957Z",
+      "actor": "SYSTEM",
+      "newTotal": 0
+    },
+    {
+      "orderId": "CLZ-20261006-0035",
+      "previousTotal": 549,
+      "type": "MANUAL_ADJUSTMENT",
+      "reason": "Order #CLZ-20261006-0035 status changed from DELIVERED to CANCELLED - revenue of ₹700 reversed",
+      "id": "RA-1791277998397-7497",
+      "timestamp": "2026-10-06T09:13:18.397Z",
+      "newTotal": 0,
+      "actor": "SYSTEM",
+      "amount": -700
+    },
+    {
+      "id": "RA-1791277993435-6906",
+      "orderId": "CLZ-20261006-0036",
+      "amount": -100,
+      "actor": "SYSTEM",
+      "type": "MANUAL_ADJUSTMENT",
+      "timestamp": "2026-10-06T09:13:13.435Z",
+      "previousTotal": 1249,
+      "reason": "Order #CLZ-20261006-0036 status changed from DELIVERED to CANCELLED - revenue of ₹100 reversed",
+      "newTotal": 1149
+    },
+    {
+      "orderId": "CLZ-20261006-0039",
+      "id": "RA-1791276262916-5732",
+      "reason": "Order #CLZ-20261006-0039 status changed from DELIVERED to CANCELLED - revenue of ₹100 reversed",
+      "type": "MANUAL_ADJUSTMENT",
+      "timestamp": "2026-10-06T08:44:22.916Z",
+      "previousTotal": 1349,
+      "newTotal": 1249,
+      "amount": -100,
+      "actor": "SYSTEM"
+    },
+    {
+      "type": "MANUAL_ADJUSTMENT",
+      "timestamp": "2026-10-06T08:44:22.814Z",
+      "id": "RA-1791276262814-7636",
+      "newTotal": 749,
+      "amount": -700,
+      "previousTotal": 1449,
+      "orderId": "CLZ-20261006-0038",
+      "actor": "SYSTEM",
+      "reason": "Order #CLZ-20261006-0038 status changed from DELIVERED to CANCELLED - revenue of ₹700 reversed"
+    },
+    {
+      "timestamp": "2026-10-06T08:44:22.722Z",
+      "type": "MANUAL_ADJUSTMENT",
+      "reason": "Order #CLZ-20261006-0037 status changed from DELIVERED to CANCELLED - revenue of ₹500 reversed",
+      "previousTotal": 2149,
+      "id": "RA-1791276262722-3094",
+      "orderId": "CLZ-20261006-0037",
+      "amount": -500,
+      "newTotal": 1649,
+      "actor": "SYSTEM"
+    },
+    {
+      "orderId": "CLZ-20261006-0039",
+      "reason": "Order #CLZ-20261006-0039 marked DELIVERED - automatic revenue of ₹100 generated",
+      "type": "AUTOMATIC_DELIVERED",
+      "id": "RA-1791276262602-7837",
+      "actor": "SYSTEM",
+      "newTotal": 2749,
+      "previousTotal": 2649,
+      "timestamp": "2026-10-06T08:44:22.602Z",
+      "amount": 100
+    },
+    {
+      "newTotal": 3249,
+      "id": "RA-1791276262327-2141",
+      "reason": "Order #CLZ-20261006-0038 marked DELIVERED - automatic revenue of ₹700 generated",
+      "type": "AUTOMATIC_DELIVERED",
+      "orderId": "CLZ-20261006-0038",
+      "timestamp": "2026-10-06T08:44:22.327Z",
+      "previousTotal": 2549,
+      "actor": "SYSTEM",
+      "amount": 700
+    },
+    {
+      "id": "RA-1791276262084-7617",
+      "timestamp": "2026-10-06T08:44:22.084Z",
+      "previousTotal": 1849,
+      "type": "AUTOMATIC_DELIVERED",
+      "newTotal": 2349,
+      "amount": 500,
+      "orderId": "CLZ-20261006-0037",
+      "actor": "SYSTEM",
+      "reason": "Order #CLZ-20261006-0037 marked DELIVERED - automatic revenue of ₹500 generated"
+    },
+    {
+      "timestamp": "2026-10-06T08:44:21.767Z",
+      "amount": 500,
+      "newTotal": 2349,
+      "actor": "SYSTEM",
+      "previousTotal": 1849,
+      "reason": "Order #CLZ-20261006-0037 marked DELIVERED - automatic revenue of ₹500 generated",
+      "type": "AUTOMATIC_DELIVERED",
+      "id": "RA-1791276261766-8472",
+      "orderId": "CLZ-20261006-0037"
+    },
+    {
+      "timestamp": "2026-10-06T08:43:56.618Z",
+      "amount": 100,
+      "orderId": "CLZ-20261006-0036",
+      "actor": "SYSTEM",
+      "type": "AUTOMATIC_DELIVERED",
+      "newTotal": 1509,
+      "previousTotal": 1409,
+      "id": "RA-1791276236618-9675",
+      "reason": "Order #CLZ-20261006-0036 marked DELIVERED - automatic revenue of ₹100 generated"
+    },
+    {
+      "orderId": "CLZ-20261006-0035",
+      "previousTotal": 1309,
+      "newTotal": 2009,
+      "id": "RA-1791276236332-4192",
+      "reason": "Order #CLZ-20261006-0035 marked DELIVERED - automatic revenue of ₹700 generated",
+      "actor": "SYSTEM",
+      "type": "AUTOMATIC_DELIVERED",
+      "timestamp": "2026-10-06T08:43:56.332Z",
+      "amount": 700
+    },
+    {
+      "newTotal": 1109,
+      "amount": 500,
+      "orderId": "CLZ-20261006-0034",
+      "actor": "SYSTEM",
+      "id": "RA-1791276235811-6360",
+      "type": "AUTOMATIC_DELIVERED",
+      "previousTotal": 609,
+      "reason": "Order #CLZ-20261006-0034 marked DELIVERED - automatic revenue of ₹500 generated",
+      "timestamp": "2026-10-06T08:43:55.811Z"
+    },
+    {
+      "actor": "SYSTEM",
+      "amount": 500,
+      "timestamp": "2026-10-06T08:43:55.477Z",
+      "id": "RA-1791276235477-6529",
+      "newTotal": 1109,
+      "type": "AUTOMATIC_DELIVERED",
+      "reason": "Order #CLZ-20261006-0034 marked DELIVERED - automatic revenue of ₹500 generated",
+      "previousTotal": 609,
+      "orderId": "CLZ-20261006-0034"
+    },
+    {
+      "orderId": "CLZ-20261006-0034",
+      "reason": "Order #CLZ-20261006-0034 marked DELIVERED - automatic revenue of ₹60 generated",
+      "timestamp": "2026-10-06T08:43:04.970Z",
+      "previousTotal": 109,
+      "actor": "SYSTEM",
+      "id": "RA-1791276184970-7588",
+      "newTotal": 169,
+      "amount": 60,
+      "type": "AUTOMATIC_DELIVERED"
+    },
+    {
+      "reason": "Order #CLZ-20261004-0027 marked DELIVERED - automatic revenue of ₹178 generated",
+      "type": "AUTOMATIC_DELIVERED",
+      "orderId": "CLZ-20261004-0027",
+      "timestamp": "2026-10-04T10:40:46.923Z",
+      "newTotal": 405,
+      "actor": "SYSTEM",
+      "previousTotal": 227,
+      "amount": 178,
+      "id": "RA-1791110446923-7274"
+    },
+    {
+      "actor": "SYSTEM",
+      "amount": 49,
+      "timestamp": "2026-10-04T10:22:21.559Z",
+      "orderId": "CLZ-20261003-0017",
+      "type": "AUTOMATIC_DELIVERED",
+      "newTotal": 377,
+      "reason": "Order #CLZ-20261003-0017 marked DELIVERED - automatic revenue of ₹49 generated",
+      "previousTotal": 328,
+      "id": "RA-1791109341559-4595"
+    },
+    {
+      "orderId": "CLZ-20261004-0023",
+      "id": "RA-1791106459207-4970",
+      "timestamp": "2026-10-04T09:34:19.207Z",
+      "reason": "Order #CLZ-20261004-0023 marked DELIVERED - automatic revenue of ₹279 generated",
+      "actor": "SYSTEM",
+      "previousTotal": 279,
+      "type": "AUTOMATIC_DELIVERED",
+      "amount": 279,
+      "newTotal": 558
+    }
+  ],
+  "systemAudit": [
+    {
+      "orderId": "CLZ-20261009-0040",
+      "id": "SYS-1791570427638-9380",
+      "details": "Order CLZ-20261009-0040 DELIVERED. Automatic Revenue of ₹49 added to sales.",
+      "timestamp": "2026-10-09T18:27:07.638Z",
+      "actor": "SYSTEM",
+      "action": "ORDER_DELIVERED_REVENUE"
+    },
+    {
+      "timestamp": "2026-10-09T18:27:07.455Z",
+      "id": "SYS-1791570427455-4986",
+      "actor": "OWNER",
+      "orderId": "CLZ-20261009-0040",
+      "details": "Order CLZ-20261009-0040 marked as OUT FOR DELIVERY.",
+      "action": "ORDER_OUT_FOR_DELIVERY"
+    },
+    {
+      "timestamp": "2026-10-09T18:27:07.323Z",
+      "actor": "OWNER",
+      "action": "ORDER_PACKAGING",
+      "details": "Order CLZ-20261009-0040 marked as PACKAGING.",
+      "id": "SYS-1791570427323-9507",
+      "orderId": "CLZ-20261009-0040"
+    },
+    {
+      "actor": "OWNER",
+      "timestamp": "2026-10-09T18:27:07.282Z",
+      "orderId": "CLZ-20261009-0040",
+      "id": "SYS-1791570427282-5627",
+      "details": "Order CLZ-20261009-0040 accepted by Owner. Inventory stock deducted.",
+      "customerId": "TAZE CLINING Android Customer App",
+      "action": "ORDER_ACCEPTED"
+    },
+    {
+      "timestamp": "2026-10-09T18:27:07.053Z",
+      "actor": "CUSTOMER",
+      "orderId": "CLZ-20261009-0040",
+      "customerId": "TAZE CLINING Android Customer App",
+      "details": "Order CLZ-20261009-0040 placed (PENDING) by Mohan Lal (9876543210) for ₹49",
+      "action": "ORDER_PLACED",
+      "id": "SYS-1791570427053-4764"
+    },
+    {
+      "details": "Order CLZ-20261006-0039 DELIVERED. Automatic Revenue of ₹100 added to sales.",
+      "actor": "SYSTEM",
+      "orderId": "CLZ-20261006-0039",
+      "action": "ORDER_DELIVERED_REVENUE",
+      "timestamp": "2026-10-06T08:44:22.646Z",
+      "id": "SYS-1791276262646-5146"
+    },
+    {
+      "timestamp": "2026-10-06T08:44:22.545Z",
+      "action": "ORDER_PLACED",
+      "orderId": "CLZ-20261006-0039",
+      "details": "Order CLZ-20261006-0039 placed (PENDING) by Test Customer 3 (9876543212) for ₹100",
+      "actor": "CUSTOMER",
+      "id": "SYS-1791276262545-3191"
+    },
+    {
+      "timestamp": "2026-10-06T08:44:22.390Z",
+      "details": "Order CLZ-20261006-0038 DELIVERED. Automatic Revenue of ₹700 added to sales.",
+      "action": "ORDER_DELIVERED_REVENUE",
+      "orderId": "CLZ-20261006-0038",
+      "id": "SYS-1791276262390-8190",
+      "actor": "SYSTEM"
+    },
+    {
+      "action": "ORDER_PLACED",
+      "details": "Order CLZ-20261006-0038 placed (PENDING) by Test Customer 2 (9876543211) for ₹700",
+      "actor": "CUSTOMER",
+      "orderId": "CLZ-20261006-0038",
+      "timestamp": "2026-10-06T08:44:22.295Z",
+      "id": "SYS-1791276262295-3074"
+    },
+    {
+      "actor": "SYSTEM",
+      "id": "SYS-1791276262162-6137",
+      "timestamp": "2026-10-06T08:44:22.162Z",
+      "action": "ORDER_DELIVERED_REVENUE",
+      "details": "Order CLZ-20261006-0037 DELIVERED. Automatic Revenue of ₹500 added to sales.",
+      "orderId": "CLZ-20261006-0037"
+    },
+    {
+      "orderId": "CLZ-20261006-0037",
+      "timestamp": "2026-10-06T08:44:21.941Z",
+      "details": "Order CLZ-20261006-0037 marked as PACKAGING.",
+      "id": "SYS-1791276261941-3823",
+      "actor": "OWNER",
+      "action": "ORDER_PACKAGING"
+    },
+    {
+      "orderId": "CLZ-20261006-0037",
+      "actor": "SYSTEM",
+      "details": "Order CLZ-20261006-0037 DELIVERED. Automatic Revenue of ₹500 added to sales.",
+      "timestamp": "2026-10-06T08:44:21.817Z",
+      "id": "SYS-1791276261817-8390",
+      "action": "ORDER_DELIVERED_REVENUE"
+    },
+    {
+      "action": "ORDER_OUT_FOR_DELIVERY",
+      "id": "SYS-1791276261693-5574",
+      "actor": "OWNER",
+      "details": "Order CLZ-20261006-0037 marked as OUT FOR DELIVERY.",
+      "orderId": "CLZ-20261006-0037",
+      "timestamp": "2026-10-06T08:44:21.693Z"
+    },
+    {
+      "details": "Order CLZ-20261006-0037 marked as PACKAGING.",
+      "id": "SYS-1791276261600-1201",
+      "actor": "OWNER",
+      "orderId": "CLZ-20261006-0037",
+      "action": "ORDER_PACKAGING",
+      "timestamp": "2026-10-06T08:44:21.600Z"
+    },
+    {
+      "details": "Order CLZ-20261006-0037 accepted by Owner. Inventory stock deducted.",
+      "action": "ORDER_ACCEPTED",
+      "actor": "OWNER",
+      "orderId": "CLZ-20261006-0037",
+      "timestamp": "2026-10-06T08:44:21.563Z",
+      "id": "SYS-1791276261563-6581"
+    },
+    {
+      "details": "Order CLZ-20261006-0037 placed (PENDING) by Test Customer 1 (9876543210) for ₹500",
+      "timestamp": "2026-10-06T08:44:21.408Z",
+      "action": "ORDER_PLACED",
+      "actor": "CUSTOMER",
+      "id": "SYS-1791276261408-6401",
+      "orderId": "CLZ-20261006-0037"
+    },
+    {
+      "action": "ORDER_DELIVERED_REVENUE",
+      "orderId": "CLZ-20261006-0036",
+      "details": "Order CLZ-20261006-0036 DELIVERED. Automatic Revenue of ₹100 added to sales.",
+      "timestamp": "2026-10-06T08:43:56.672Z",
+      "id": "SYS-1791276236672-8686",
+      "actor": "SYSTEM"
+    },
+    {
+      "timestamp": "2026-10-06T08:43:56.566Z",
+      "details": "Order CLZ-20261006-0036 placed (PENDING) by Test Customer 3 (9876543212) for ₹100",
+      "action": "ORDER_PLACED",
+      "orderId": "CLZ-20261006-0036",
+      "id": "SYS-1791276236566-7116",
+      "actor": "CUSTOMER"
+    },
+    {
+      "id": "SYS-1791276236417-7275",
+      "actor": "SYSTEM",
+      "timestamp": "2026-10-06T08:43:56.417Z",
+      "orderId": "CLZ-20261006-0035",
+      "details": "Order CLZ-20261006-0035 DELIVERED. Automatic Revenue of ₹700 added to sales.",
+      "action": "ORDER_DELIVERED_REVENUE"
+    },
+    {
+      "action": "ORDER_PLACED",
+      "timestamp": "2026-10-06T08:43:56.295Z",
+      "details": "Order CLZ-20261006-0035 placed (PENDING) by Test Customer 2 (9876543211) for ₹700",
+      "orderId": "CLZ-20261006-0035",
+      "id": "SYS-1791276236295-4618",
+      "actor": "CUSTOMER"
+    },
+    {
+      "action": "ORDER_DELIVERED_REVENUE",
+      "details": "Order CLZ-20261006-0034 DELIVERED. Automatic Revenue of ₹500 added to sales.",
+      "orderId": "CLZ-20261006-0034",
+      "id": "SYS-1791276235870-1047",
+      "actor": "SYSTEM",
+      "timestamp": "2026-10-06T08:43:55.870Z"
+    },
+    {
+      "actor": "OWNER",
+      "orderId": "CLZ-20261006-0034",
+      "id": "SYS-1791276235706-1348",
+      "details": "Order CLZ-20261006-0034 marked as PACKAGING.",
+      "timestamp": "2026-10-06T08:43:55.706Z",
+      "action": "ORDER_PACKAGING"
+    },
+    {
+      "id": "SYS-1791276235546-8137",
+      "action": "ORDER_DELIVERED_REVENUE",
+      "timestamp": "2026-10-06T08:43:55.547Z",
+      "orderId": "CLZ-20261006-0034",
+      "actor": "SYSTEM",
+      "details": "Order CLZ-20261006-0034 DELIVERED. Automatic Revenue of ₹500 added to sales."
+    },
+    {
+      "action": "ORDER_OUT_FOR_DELIVERY",
+      "details": "Order CLZ-20261006-0034 marked as OUT FOR DELIVERY.",
+      "orderId": "CLZ-20261006-0034",
+      "id": "SYS-1791276235384-2190",
+      "actor": "OWNER",
+      "timestamp": "2026-10-06T08:43:55.384Z"
+    },
+    {
+      "orderId": "CLZ-20261006-0034",
+      "action": "ORDER_PACKAGING",
+      "timestamp": "2026-10-06T08:43:55.281Z",
+      "details": "Order CLZ-20261006-0034 marked as PACKAGING.",
+      "id": "SYS-1791276235281-7368",
+      "actor": "OWNER"
+    },
+    {
+      "id": "SYS-1791276235243-7946",
+      "orderId": "CLZ-20261006-0034",
+      "details": "Order CLZ-20261006-0034 accepted by Owner. Inventory stock deducted.",
+      "actor": "OWNER",
+      "timestamp": "2026-10-06T08:43:55.243Z",
+      "action": "ORDER_ACCEPTED"
+    },
+    {
+      "action": "ORDER_PLACED",
+      "details": "Order CLZ-20261006-0034 placed (PENDING) by Test Customer 1 (9876543210) for ₹500",
+      "orderId": "CLZ-20261006-0034",
+      "id": "SYS-1791276235036-4333",
+      "timestamp": "2026-10-06T08:43:55.036Z",
+      "actor": "CUSTOMER"
+    },
+    {
+      "timestamp": "2026-10-06T08:43:05.214Z",
+      "id": "SYS-1791276185214-4939",
+      "action": "ORDER_DELIVERED_REVENUE",
+      "actor": "SYSTEM",
+      "details": "Order CLZ-20261006-0034 DELIVERED. Automatic Revenue of ₹60 added to sales.",
+      "orderId": "CLZ-20261006-0034"
+    },
+    {
+      "orderId": "CLZ-20261006-0034",
+      "id": "SYS-1791276184919-6958",
+      "details": "Order CLZ-20261006-0034 marked as OUT FOR DELIVERY.",
+      "action": "ORDER_OUT_FOR_DELIVERY",
+      "actor": "OWNER",
+      "timestamp": "2026-10-06T08:43:04.919Z"
+    },
+    {
+      "action": "ORDER_PACKAGING",
+      "details": "Order CLZ-20261006-0034 marked as PACKAGING.",
+      "orderId": "CLZ-20261006-0034",
+      "timestamp": "2026-10-06T08:43:04.808Z",
+      "actor": "OWNER",
+      "id": "SYS-1791276184808-3140"
+    },
+    {
+      "action": "ORDER_ACCEPTED",
+      "details": "Order CLZ-20261006-0034 accepted by Owner. Inventory stock deducted.",
+      "orderId": "CLZ-20261006-0034",
+      "actor": "OWNER",
+      "timestamp": "2026-10-06T08:43:04.767Z",
+      "id": "SYS-1791276184767-7802"
+    },
+    {
+      "orderId": "CLZ-20261006-0034",
+      "id": "SYS-1791276184370-3682",
+      "action": "ORDER_PLACED",
+      "timestamp": "2026-10-06T08:43:04.370Z",
+      "actor": "CUSTOMER",
+      "details": "Order CLZ-20261006-0034 placed (PENDING) by Test Customer 1 (9876543210) for ₹60"
+    },
+    {
+      "orderId": "CLZ-20261006-0033",
+      "details": "Order CLZ-20261006-0033 marked as OUT FOR DELIVERY.",
+      "id": "SYS-1791263335133-7936",
+      "actor": "OWNER",
+      "action": "ORDER_OUT_FOR_DELIVERY",
+      "timestamp": "2026-10-06T05:08:55.133Z"
+    },
+    {
+      "id": "SYS-1791263315964-7724",
+      "timestamp": "2026-10-06T05:08:35.964Z",
+      "orderId": "CLZ-20261006-0033",
+      "details": "Order CLZ-20261006-0033 marked as PACKAGING.",
+      "action": "ORDER_PACKAGING",
+      "actor": "OWNER"
+    },
+    {
+      "timestamp": "2026-10-06T05:08:06.259Z",
+      "action": "ORDER_ACCEPTED",
+      "orderId": "CLZ-20261001-0001",
+      "id": "SYS-1791263286259-7646",
+      "actor": "OWNER",
+      "details": "Order CLZ-20261001-0001 accepted by Owner. Inventory stock deducted."
+    },
+    {
+      "id": "SYS-1791263279868-5293",
+      "customerId": "VIP_CLIENT",
+      "orderId": "CLZ-20261006-0033",
+      "details": "Order CLZ-20261006-0033 accepted by Owner. Inventory stock deducted.",
+      "action": "ORDER_ACCEPTED",
+      "actor": "OWNER",
+      "timestamp": "2026-10-06T05:07:59.868Z"
+    },
+    {
+      "action": "ORDER_PLACED",
+      "details": "Order CLZ-20261006-0033 placed (PENDING) by Rintu Halder (9832928334) for ₹49",
+      "customerId": "VIP_CLIENT",
+      "id": "SYS-1791263255925-6014",
+      "orderId": "CLZ-20261006-0033",
+      "timestamp": "2026-10-06T05:07:35.925Z",
+      "actor": "CUSTOMER"
+    },
+    {
+      "id": "SYS-1791262046839-6883",
+      "actor": "OWNER",
+      "orderId": "CLZ-20261005-0031",
+      "details": "Order CLZ-20261005-0031 cancelled. Stock restored: NO.",
+      "timestamp": "2026-10-06T04:47:26.839Z",
+      "action": "ORDER_CANCELLED"
+    },
+    {
+      "orderId": "CLZ-20261005-0032",
+      "id": "SYS-1791262034719-1413",
+      "timestamp": "2026-10-06T04:47:14.720Z",
+      "customerId": "VIP_CLIENT",
+      "details": "Order CLZ-20261005-0032 cancelled. Stock restored: NO.",
+      "actor": "OWNER",
+      "action": "ORDER_CANCELLED"
+    },
+    {
+      "timestamp": "2026-10-05T12:32:47.362Z",
+      "customerId": "VIP_CLIENT",
+      "action": "ORDER_PLACED",
+      "id": "SYS-1791203567362-8601",
+      "details": "Order CLZ-20261005-0032 placed (PENDING) by WhatsApp Test Customer (9876543210) for ₹49",
+      "orderId": "CLZ-20261005-0032",
+      "actor": "CUSTOMER"
+    },
+    {
+      "action": "ORDER_PLACED",
+      "details": "Order CLZ-20261005-0031 placed (PENDING) by Ramesh Kumar (9820011223) for ₹49",
+      "timestamp": "2026-10-05T12:02:41.736Z",
+      "orderId": "CLZ-20261005-0031",
+      "actor": "CUSTOMER",
+      "id": "SYS-1791201761736-3960"
+    },
+    {
+      "action": "ORDER_PLACED",
+      "details": "Order CLZ-20261005-0030 placed (PENDING) by Test Customer (9811234567) for ₹159",
+      "timestamp": "2026-10-05T06:25:08.008Z",
+      "orderId": "CLZ-20261005-0030",
+      "customerId": "CUST-9811234567",
+      "id": "SYS-1791181508008-3157",
+      "actor": "CUSTOMER"
+    },
+    {
+      "details": "Customer verified successfully via OTP: Test Customer (9811234567)",
+      "actor": "CUSTOMER",
+      "action": "CUSTOMER_VERIFIED",
+      "id": "SYS-1791181507819-9829",
+      "timestamp": "2026-10-05T06:25:07.819Z",
+      "customerId": "CUST-9811234567"
+    },
+    {
+      "id": "SYS-1791114803628-8226",
+      "action": "ORDER_CANCELLED",
+      "details": "Order CLZ-20261002-0002 cancelled. Stock restored: NO.",
+      "orderId": "CLZ-20261002-0002",
+      "timestamp": "2026-10-04T11:53:23.628Z",
+      "actor": "OWNER"
+    },
+    {
+      "orderId": "CLZ-20261002-0003",
+      "details": "Order CLZ-20261002-0003 cancelled. Stock restored: NO.",
+      "id": "SYS-1791114800852-4074",
+      "actor": "OWNER",
+      "action": "ORDER_CANCELLED",
+      "timestamp": "2026-10-04T11:53:20.852Z"
+    },
+    {
+      "details": "Order CLZ-20261003-0019 cancelled. Stock restored: NO.",
+      "action": "ORDER_CANCELLED",
+      "actor": "OWNER",
+      "id": "SYS-1791114797660-5389",
+      "orderId": "CLZ-20261003-0019",
+      "customerId": "CUST-9876543210",
+      "timestamp": "2026-10-04T11:53:17.660Z"
+    },
+    {
+      "action": "ORDER_CANCELLED",
+      "details": "Order CLZ-20261004-0022 cancelled. Stock restored: NO.",
+      "timestamp": "2026-10-04T11:52:31.411Z",
+      "orderId": "CLZ-20261004-0022",
+      "customerId": "CUST-9811234567",
+      "id": "SYS-1791114751411-7286",
+      "actor": "OWNER"
+    },
+    {
+      "customerId": "TEST_CUSTOMER_ID",
+      "actor": "OWNER",
+      "id": "SYS-1791114744778-3161",
+      "action": "ORDER_CANCELLED",
+      "details": "Order CLZ-20261004-0024 cancelled. Stock restored: NO.",
+      "timestamp": "2026-10-04T11:52:24.778Z",
+      "orderId": "CLZ-20261004-0024"
+    },
+    {
+      "action": "ORDER_CANCELLED",
+      "orderId": "CLZ-20261004-0025",
+      "details": "Order CLZ-20261004-0025 cancelled. Stock restored: NO.",
+      "customerId": "TEST_CUSTOMER_ID",
+      "id": "SYS-1791114736395-7363",
+      "actor": "OWNER",
+      "timestamp": "2026-10-04T11:52:16.395Z"
+    },
+    {
+      "orderId": "CLZ-20261004-0026",
+      "action": "ORDER_CANCELLED",
+      "timestamp": "2026-10-04T11:52:13.018Z",
+      "details": "Order CLZ-20261004-0026 cancelled. Stock restored: NO.",
+      "actor": "OWNER",
+      "id": "SYS-1791114733018-8643"
+    },
+    {
+      "action": "ORDER_CANCELLED",
+      "orderId": "CLZ-20261004-0028",
+      "timestamp": "2026-10-04T11:52:10.247Z",
+      "id": "SYS-1791114730247-8299",
+      "details": "Order CLZ-20261004-0028 cancelled. Stock restored: NO.",
+      "actor": "OWNER"
+    },
+    {
+      "action": "ORDER_ACCEPTED",
+      "id": "SYS-1791111593184-2657",
+      "details": "Order CLZ-20261004-0029 accepted by Owner. Inventory stock deducted.",
+      "timestamp": "2026-10-04T10:59:53.184Z",
+      "orderId": "CLZ-20261004-0029",
+      "actor": "OWNER"
+    },
+    {
+      "id": "SYS-1791111585244-7877",
+      "orderId": "CLZ-20261004-0029",
+      "timestamp": "2026-10-04T10:59:45.244Z",
+      "details": "Order CLZ-20261004-0029 placed (PENDING) by Subhajit Mukherjee (9876543210) for ₹49",
+      "actor": "CUSTOMER",
+      "action": "ORDER_PLACED"
+    },
+    {
+      "actor": "CUSTOMER",
+      "id": "SYS-1791110447130-5957",
+      "timestamp": "2026-10-04T10:40:47.130Z",
+      "orderId": "CLZ-20261004-0028",
+      "details": "Order CLZ-20261004-0028 placed (PENDING) by Ayesha Khan (9811223344) for ₹49",
+      "action": "ORDER_PLACED"
+    },
+    {
+      "details": "Order CLZ-20261004-0027 DELIVERED. Automatic Revenue of ₹178 added to sales.",
+      "actor": "SYSTEM",
+      "action": "ORDER_DELIVERED_REVENUE",
+      "orderId": "CLZ-20261004-0027",
+      "timestamp": "2026-10-04T10:40:46.949Z",
+      "id": "SYS-1791110446949-4382"
+    },
+    {
+      "actor": "OWNER",
+      "timestamp": "2026-10-04T10:40:46.845Z",
+      "orderId": "CLZ-20261004-0027",
+      "details": "Order CLZ-20261004-0027 marked as OUT FOR DELIVERY.",
+      "id": "SYS-1791110446845-2459",
+      "action": "ORDER_OUT_FOR_DELIVERY"
+    },
+    {
+      "timestamp": "2026-10-04T10:40:46.749Z",
+      "id": "SYS-1791110446749-4533",
+      "actor": "OWNER",
+      "orderId": "CLZ-20261004-0027",
+      "action": "ORDER_PACKAGING",
+      "details": "Order CLZ-20261004-0027 marked as PACKAGING."
+    },
+    {
+      "details": "Order CLZ-20261004-0027 accepted by Owner. Inventory stock deducted.",
+      "action": "ORDER_ACCEPTED",
+      "timestamp": "2026-10-04T10:40:46.707Z",
+      "id": "SYS-1791110446707-4174",
+      "orderId": "CLZ-20261004-0027",
+      "actor": "OWNER"
+    },
+    {
+      "timestamp": "2026-10-04T10:40:46.480Z",
+      "action": "ORDER_PLACED",
+      "id": "SYS-1791110446480-7766",
+      "details": "Order CLZ-20261004-0027 placed (PENDING) by Rohan Kulkarni (9822001122) for ₹178",
+      "orderId": "CLZ-20261004-0027",
+      "actor": "CUSTOMER"
+    },
+    {
+      "action": "ORDER_PLACED",
+      "timestamp": "2026-10-04T10:40:25.783Z",
+      "details": "Order CLZ-20261004-0026 placed (PENDING) by Rohan Kulkarni (9822001122) for ₹178",
+      "orderId": "CLZ-20261004-0026",
+      "id": "SYS-1791110425783-8453",
+      "actor": "CUSTOMER"
+    },
+    {
+      "details": "Order CLZ-20261003-0017 DELIVERED. Automatic Revenue of ₹49 added to sales.",
+      "id": "SYS-1791109341711-8961",
+      "action": "ORDER_DELIVERED_REVENUE",
+      "orderId": "CLZ-20261003-0017",
+      "actor": "SYSTEM",
+      "timestamp": "2026-10-04T10:22:21.711Z"
+    },
+    {
+      "action": "ORDER_OUT_FOR_DELIVERY",
+      "actor": "OWNER",
+      "id": "SYS-1791108215346-3106",
+      "details": "Order CLZ-20261003-0017 marked as OUT FOR DELIVERY.",
+      "timestamp": "2026-10-04T10:03:35.346Z",
+      "orderId": "CLZ-20261003-0017"
+    },
+    {
+      "id": "SYS-1791108203081-3258",
+      "actor": "OWNER",
+      "orderId": "CLZ-20261003-0018",
+      "details": "Order CLZ-20261003-0018 marked as OUT FOR DELIVERY.",
+      "timestamp": "2026-10-04T10:03:23.081Z",
+      "action": "ORDER_OUT_FOR_DELIVERY"
+    },
+    {
+      "actor": "CUSTOMER",
+      "id": "SYS-1791108101971-6565",
+      "customerId": "CUST-9242150040",
+      "action": "CUSTOMER_REGISTERED",
+      "details": "Customer profile created for Paankaj (9242150040)",
+      "timestamp": "2026-10-04T10:01:41.971Z"
+    },
+    {
+      "actor": "CUSTOMER",
+      "customerId": "CUST-9822334455",
+      "details": "Order CLZ-20261004-0025 placed (PENDING) by Test Customer (9822334455) for ₹408",
+      "id": "SYS-1791107882111-6488",
+      "action": "ORDER_PLACED",
+      "orderId": "CLZ-20261004-0025",
+      "timestamp": "2026-10-04T09:58:02.111Z"
+    },
+    {
+      "actor": "CUSTOMER",
+      "customerId": "CUST-9822334455",
+      "details": "Customer verified successfully via OTP: Test Customer (9822334455)",
+      "action": "CUSTOMER_VERIFIED",
+      "id": "SYS-1791107881973-2965",
+      "timestamp": "2026-10-04T09:58:01.973Z"
+    },
+    {
+      "details": "Order CLZ-20261004-0024 placed (PENDING) by Test Customer (9944556677) for ₹199",
+      "timestamp": "2026-10-04T09:37:49.266Z",
+      "id": "SYS-1791106669266-5320",
+      "actor": "CUSTOMER",
+      "action": "ORDER_PLACED",
+      "orderId": "CLZ-20261004-0024",
+      "customerId": "CUST-9944556677"
+    },
+    {
+      "details": "Customer verified successfully via OTP: Test Customer (9944556677)",
+      "actor": "CUSTOMER",
+      "action": "CUSTOMER_VERIFIED",
+      "timestamp": "2026-10-04T09:37:49.156Z",
+      "customerId": "CUST-9944556677",
+      "id": "SYS-1791106669156-4601"
+    },
+    {
+      "actor": "OWNER",
+      "id": "SYS-1791106583397-1051",
+      "details": "Order CLZ-20261002-0006 marked as PACKAGING.",
+      "orderId": "CLZ-20261002-0006",
+      "action": "ORDER_PACKAGING",
+      "timestamp": "2026-10-04T09:36:23.397Z"
+    },
+    {
+      "actor": "OWNER",
+      "orderId": "CLZ-20261002-0014",
+      "details": "Order CLZ-20261002-0014 marked as PACKAGING.",
+      "action": "ORDER_PACKAGING",
+      "id": "SYS-1791106577495-7007",
+      "timestamp": "2026-10-04T09:36:17.495Z"
+    },
+    {
+      "action": "ORDER_PACKAGING",
+      "details": "Order CLZ-20261003-0017 marked as PACKAGING.",
+      "timestamp": "2026-10-04T09:36:10.050Z",
+      "actor": "OWNER",
+      "id": "SYS-1791106570050-5687",
+      "orderId": "CLZ-20261003-0017"
+    },
+    {
+      "action": "ORDER_PACKAGING",
+      "timestamp": "2026-10-04T09:36:00.834Z",
+      "actor": "OWNER",
+      "details": "Order CLZ-20261003-0018 marked as PACKAGING.",
+      "id": "SYS-1791106560834-9011",
+      "orderId": "CLZ-20261003-0018"
+    },
+    {
+      "actor": "SYSTEM",
+      "id": "SYS-1791106459346-5684",
+      "orderId": "CLZ-20261004-0023",
+      "details": "Order CLZ-20261004-0023 DELIVERED. Automatic Revenue of ₹279 added to sales.",
+      "action": "ORDER_DELIVERED_REVENUE",
+      "timestamp": "2026-10-04T09:34:19.346Z"
+    },
+    {
+      "details": "Order CLZ-20261004-0023 marked as OUT FOR DELIVERY.",
+      "action": "ORDER_OUT_FOR_DELIVERY",
+      "orderId": "CLZ-20261004-0023",
+      "id": "SYS-1791106459140-6112",
+      "timestamp": "2026-10-04T09:34:19.140Z",
+      "actor": "OWNER"
+    },
+    {
+      "action": "ORDER_PACKAGING",
+      "id": "SYS-1791106459085-1128",
+      "orderId": "CLZ-20261004-0023",
+      "details": "Order CLZ-20261004-0023 marked as PACKAGING.",
+      "actor": "OWNER",
+      "timestamp": "2026-10-04T09:34:19.085Z"
+    },
+    {
+      "actor": "OWNER",
+      "orderId": "CLZ-20261004-0023",
+      "details": "Order CLZ-20261004-0023 accepted by Owner. Inventory stock deducted.",
+      "timestamp": "2026-10-04T09:34:19.052Z",
+      "id": "SYS-1791106459052-2861",
+      "customerId": "TEST_CUSTOMER_ID",
+      "action": "ORDER_ACCEPTED"
+    },
+    {
+      "actor": "CUSTOMER",
+      "details": "Order CLZ-20261004-0023 placed (PENDING) by Test Customer (9896931763) for ₹279",
+      "customerId": "CUST-9896931763",
+      "id": "SYS-1791106458772-5481",
+      "action": "ORDER_PLACED",
+      "orderId": "CLZ-20261004-0023",
+      "timestamp": "2026-10-04T09:34:18.772Z"
+    },
+    {
+      "id": "SYS-1791106458628-9409",
+      "customerId": "CUST-9896931763",
+      "actor": "CUSTOMER",
+      "timestamp": "2026-10-04T09:34:18.628Z",
+      "action": "CUSTOMER_VERIFIED",
+      "details": "Customer verified successfully via OTP: Test Customer (9896931763)"
+    },
+    {
+      "action": "ORDER_PLACED",
+      "customerId": "CUST-9811234567",
+      "details": "Order CLZ-20261004-0022 placed (PENDING) by Pooja Verma (9811234567) for ₹439",
+      "id": "SYS-1791106431022-6914",
+      "actor": "CUSTOMER",
+      "timestamp": "2026-10-04T09:33:51.022Z",
+      "orderId": "CLZ-20261004-0022"
+    },
+    {
+      "action": "CUSTOMER_VERIFIED",
+      "timestamp": "2026-10-04T09:33:50.814Z",
+      "actor": "CUSTOMER",
+      "details": "Customer verified successfully via OTP: Pooja Verma (9811234567)",
+      "customerId": "CUST-9811234567",
+      "id": "SYS-1791106430814-4471"
+    },
+    {
+      "action": "ORDER_ITEM_STATUS_UPDATED",
+      "actor": "OWNER",
+      "timestamp": "2026-10-04T05:51:48.889Z",
+      "details": "Order #CLZ-20261003-0017 item \"TAGE Clining Floor Cleaner (250 ML)\" updated from PACKAGING to DELIVERED",
+      "id": "SYS-1791093108889-7569",
+      "orderId": "CLZ-20261003-0017"
+    },
+    {
+      "details": "Order #CLZ-20261003-0018 item \"TAGE Clining Floor Cleaner (250 ML)\" updated from PACKAGING to DELIVERED",
+      "action": "ORDER_ITEM_STATUS_UPDATED",
+      "orderId": "CLZ-20261003-0018",
+      "actor": "OWNER",
+      "id": "SYS-1791093096077-7154",
+      "timestamp": "2026-10-04T05:51:36.077Z"
+    },
+    {
+      "timestamp": "2026-10-03T17:15:21.586Z",
+      "id": "SYS-1791047721586-1044",
+      "action": "ORDER_CANCELLED",
+      "actor": "OWNER",
+      "customerId": "CUST-9944556677",
+      "orderId": "CLZ-20261003-0021",
+      "details": "Order CLZ-20261003-0021 cancelled. Stock restored: NO."
+    },
+    {
+      "action": "CUSTOMER_REGISTERED",
+      "details": "Customer profile created for Paankaj (9242150040)",
+      "customerId": "CUST-9242150040",
+      "timestamp": "2026-10-03T17:13:54.483Z",
+      "id": "SYS-1791047634483-2535",
+      "actor": "CUSTOMER"
+    },
+    {
+      "customerId": "CUST-9944556677",
+      "details": "Order CLZ-20261003-0021 placed (PENDING) by Anand Rao (9944556677) for ₹1959",
+      "action": "ORDER_PLACED",
+      "orderId": "CLZ-20261003-0021",
+      "timestamp": "2026-10-03T16:33:41.186Z",
+      "actor": "CUSTOMER",
+      "id": "SYS-1791045221186-5926"
+    },
+    {
+      "id": "SYS-1791045221074-6846",
+      "timestamp": "2026-10-03T16:33:41.074Z",
+      "details": "Customer verified successfully via OTP: Anand Rao (9944556677)",
+      "actor": "CUSTOMER",
+      "customerId": "CUST-9944556677",
+      "action": "CUSTOMER_VERIFIED"
+    },
+    {
+      "orderId": "CLZ-20261003-0018",
+      "details": "Order #CLZ-20261003-0018 item \"TAGE Clining Floor Cleaner (250 ML)\" updated from DELIVERED to PACKAGING",
+      "actor": "OWNER",
+      "id": "SYS-1791045202206-1336",
+      "timestamp": "2026-10-03T16:33:22.206Z",
+      "action": "ORDER_ITEM_STATUS_UPDATED"
+    },
+    {
+      "id": "SYS-1791045196821-5908",
+      "timestamp": "2026-10-03T16:33:16.821Z",
+      "orderId": "CLZ-20261003-0020",
+      "actor": "OWNER",
+      "action": "ORDER_ITEM_STATUS_UPDATED",
+      "details": "Order #CLZ-20261003-0020 item \"TAGE Clining Glass & Mirror Shiner (500 ML)\" updated from AVAILABLE to OUT_OF_STOCK"
+    },
+    {
+      "id": "SYS-1791043873440-3121",
+      "actor": "OWNER",
+      "timestamp": "2026-10-03T16:11:13.440Z",
+      "action": "ORDER_ACCEPTED",
+      "details": "Order CLZ-20261003-0020 accepted by Owner. Inventory stock deducted.",
+      "customerId": "CUST-9811223344",
+      "orderId": "CLZ-20261003-0020"
+    },
+    {
+      "details": "Order CLZ-20261003-0020 placed (PENDING) by Aarav Sharma (9811223344) for ₹95",
+      "id": "SYS-1791043869187-5704",
+      "orderId": "CLZ-20261003-0020",
+      "actor": "CUSTOMER",
+      "timestamp": "2026-10-03T16:11:09.187Z",
+      "customerId": "CUST-9811223344",
+      "action": "ORDER_PLACED"
+    },
+    {
+      "customerId": "CUST-9811223344",
+      "id": "SYS-1791043864601-4735",
+      "details": "Customer profile created for Aarav Sharma (9811223344)",
+      "action": "CUSTOMER_REGISTERED",
+      "actor": "CUSTOMER",
+      "timestamp": "2026-10-03T16:11:04.601Z"
+    }
+  ],
+  "revenueTransactions": [
+    {
+      "orderTotal": 49,
+      "revenueAmount": 49,
+      "createdAt": "2026-10-09T18:27:07.551Z",
+      "id": "REV-CLZ-20261009-0040",
+      "status": "DELIVERED",
+      "orderId": "CLZ-20261009-0040",
+      "revenueCounted": true,
+      "customerName": "Mohan Lal",
+      "customerPhone": "9876543210",
+      "deliveredAt": "2026-10-09T18:27:07.551Z"
+    },
+    {
+      "orderId": "CLZ-20261006-0039",
+      "createdAt": "2026-10-06T08:44:22.602Z",
+      "revenueAmount": 0,
+      "customerName": "Test Customer 3",
+      "orderTotal": 100,
+      "revenueCounted": false,
+      "id": "REV-CLZ-20261006-0039",
+      "customerPhone": "9876543212",
+      "deliveredAt": "2026-10-06T08:44:22.602Z",
+      "status": "CANCELLED"
+    },
+    {
+      "customerName": "Test Customer 2",
+      "id": "REV-CLZ-20261006-0038",
+      "createdAt": "2026-10-06T08:44:22.327Z",
+      "orderTotal": 700,
+      "revenueAmount": 0,
+      "revenueCounted": false,
+      "deliveredAt": "2026-10-06T08:44:22.327Z",
+      "orderId": "CLZ-20261006-0038",
+      "customerPhone": "9876543211",
+      "status": "CANCELLED"
+    },
+    {
+      "revenueCounted": false,
+      "deliveredAt": "2026-10-06T08:44:22.084Z",
+      "revenueAmount": 0,
+      "orderId": "CLZ-20261006-0037",
+      "status": "CANCELLED",
+      "createdAt": "2026-10-06T08:44:21.766Z",
+      "orderTotal": 500,
+      "customerPhone": "9876543210",
+      "customerName": "Test Customer 1",
+      "id": "REV-CLZ-20261006-0037"
+    },
+    {
+      "customerPhone": "9876543212",
+      "status": "CANCELLED",
+      "createdAt": "2026-10-06T08:43:56.618Z",
+      "customerName": "Test Customer 3",
+      "deliveredAt": "2026-10-06T08:43:56.618Z",
+      "id": "REV-CLZ-20261006-0036",
+      "revenueCounted": false,
+      "revenueAmount": 0,
+      "orderTotal": 100,
+      "orderId": "CLZ-20261006-0036"
+    },
+    {
+      "customerPhone": "9876543211",
+      "createdAt": "2026-10-06T08:43:56.331Z",
+      "revenueCounted": false,
+      "status": "CANCELLED",
+      "orderTotal": 700,
+      "customerName": "Test Customer 2",
+      "deliveredAt": "2026-10-06T08:43:56.331Z",
+      "id": "REV-CLZ-20261006-0035",
+      "revenueAmount": 0,
+      "orderId": "CLZ-20261006-0035"
+    },
+    {
+      "id": "REV-CLZ-20261006-0034",
+      "createdAt": "2026-10-06T08:43:04.970Z",
+      "orderTotal": 500,
+      "revenueAmount": 0,
+      "revenueCounted": false,
+      "customerPhone": "9876543210",
+      "deliveredAt": "2026-10-06T08:43:55.811Z",
+      "status": "CANCELLED",
+      "orderId": "CLZ-20261006-0034",
+      "customerName": "Test Customer 1"
+    },
+    {
+      "customerName": "Paankaj",
+      "createdAt": "2026-10-04T10:22:21.559Z",
+      "revenueAmount": 0,
+      "deliveredAt": "2026-10-04T10:22:21.559Z",
+      "orderId": "CLZ-20261003-0017",
+      "status": "CANCELLED",
+      "id": "REV-CLZ-20261003-0017",
+      "orderTotal": 49,
+      "customerPhone": "9242150040",
+      "revenueCounted": false
+    }
+  ]
+}

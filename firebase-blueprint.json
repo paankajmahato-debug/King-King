@@ -1,0 +1,205 @@
+{
+  "entities": {
+    "Product": {
+      "title": "Product",
+      "description": "Hygiene product with multiple packaging variants, description, and photo",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "tagline": { "type": "string" },
+        "category": { "type": "string" },
+        "description": { "type": "string" },
+        "features": { "type": "array" },
+        "image": { "type": "string" },
+        "status": { "type": "string", "enum": ["LIVE", "UPCOMING", "OUT_OF_STOCK"] },
+        "variants": { "type": "array" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "name", "category", "status"]
+    },
+    "Order": {
+      "title": "Order",
+      "description": "Customer order with status, items snapshot, and contact details",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "customerId": { "type": "string" },
+        "customerName": { "type": "string" },
+        "customerPhone": { "type": "string" },
+        "customerAddress": { "type": "string" },
+        "notes": { "type": "string" },
+        "items": { "type": "array" },
+        "grandTotal": { "type": "number" },
+        "status": { "type": "string" },
+        "sourceUrl": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "customerName", "customerPhone", "customerAddress", "items", "grandTotal", "status"]
+    },
+    "CustomerProfile": {
+      "title": "CustomerProfile",
+      "description": "Persistent customer account profile and verified phone number",
+      "type": "object",
+      "properties": {
+        "customerId": { "type": "string" },
+        "name": { "type": "string" },
+        "verifiedMobile": { "type": "string" },
+        "phoneVerified": { "type": "boolean" },
+        "passwordHash": { "type": "string" },
+        "registeredAt": { "type": "string" },
+        "lastLogin": { "type": "string" }
+      },
+      "required": ["customerId", "name", "verifiedMobile"]
+    },
+    "CustomerSession": {
+      "title": "CustomerSession",
+      "description": "Persistent customer authentication token and session state",
+      "type": "object",
+      "properties": {
+        "token": { "type": "string" },
+        "customerId": { "type": "string" },
+        "phone": { "type": "string" },
+        "name": { "type": "string" },
+        "expiresAt": { "type": "number" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["token", "customerId", "phone"]
+    },
+    "StoreSettings": {
+      "title": "StoreSettings",
+      "description": "Store branding, titles, and public configuration",
+      "type": "object",
+      "properties": {
+        "brandName": { "type": "string" },
+        "tagline": { "type": "string" },
+        "heroTitle": { "type": "string" },
+        "heroSubtitle": { "type": "string" },
+        "customPublicUrl": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["brandName"]
+    },
+    "SystemMeta": {
+      "title": "SystemMeta",
+      "description": "Internal counters and private revenue overrides",
+      "type": "object",
+      "properties": {
+        "orderCounter": { "type": "number" },
+        "customRevenue": { "type": "number" },
+        "updatedAt": { "type": "string" }
+      }
+    },
+    "ProductImage": {
+      "title": "ProductImage",
+      "description": "Permanent product image data stored in persistent cloud database",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "data": { "type": "string" },
+        "contentType": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "data"]
+    },
+    "StockAudit": {
+      "title": "StockAudit",
+      "description": "Immutable log of all stock and inventory deductions/restorations",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "productId": { "type": "string" },
+        "variantId": { "type": "string" },
+        "quantityChanged": { "type": "number" },
+        "timestamp": { "type": "string" }
+      }
+    },
+    "RevenueAudit": {
+      "title": "RevenueAudit",
+      "description": "Immutable audit of sales, automatic revenue credits, and adjustments",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "amount": { "type": "number" },
+        "timestamp": { "type": "string" }
+      }
+    },
+    "SystemAudit": {
+      "title": "SystemAudit",
+      "description": "System event and activity logs",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "action": { "type": "string" },
+        "details": { "type": "string" },
+        "timestamp": { "type": "string" }
+      }
+    },
+    "RevenueTransaction": {
+      "title": "RevenueTransaction",
+      "description": "Immutable and idempotent order-based revenue transaction generated upon delivery",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "orderId": { "type": "string" },
+        "customerName": { "type": "string" },
+        "customerPhone": { "type": "string" },
+        "orderTotal": { "type": "number" },
+        "revenueAmount": { "type": "number" },
+        "status": { "type": "string" },
+        "revenueCounted": { "type": "boolean" },
+        "deliveredAt": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "orderId", "orderTotal", "revenueAmount", "status", "revenueCounted"]
+    }
+  },
+  "firestore": {
+    "/products/{productId}": {
+      "schema": "Product",
+      "description": "Catalog of hygiene products"
+    },
+    "/orders/{orderId}": {
+      "schema": "Order",
+      "description": "Customer purchase orders"
+    },
+    "/customer_profiles/{customerId}": {
+      "schema": "CustomerProfile",
+      "description": "Persistent customer accounts"
+    },
+    "/customer_sessions/{sessionId}": {
+      "schema": "CustomerSession",
+      "description": "Persistent customer authentication sessions"
+    },
+    "/store_settings/{settingId}": {
+      "schema": "StoreSettings",
+      "description": "Storefront branding configuration"
+    },
+    "/system_meta/{metaId}": {
+      "schema": "SystemMeta",
+      "description": "System counters and state"
+    },
+    "/product_images/{imageId}": {
+      "schema": "ProductImage",
+      "description": "Permanent image data"
+    },
+    "/stock_audit/{auditId}": {
+      "schema": "StockAudit",
+      "description": "Stock audit logs"
+    },
+    "/revenue_audit/{auditId}": {
+      "schema": "RevenueAudit",
+      "description": "Revenue audit logs"
+    },
+    "/system_audit/{auditId}": {
+      "schema": "SystemAudit",
+      "description": "System activity logs"
+    },
+    "/revenue_transactions/{transactionId}": {
+      "schema": "RevenueTransaction",
+      "description": "Order-based revenue transactions from delivered orders"
+    }
+  }
+}

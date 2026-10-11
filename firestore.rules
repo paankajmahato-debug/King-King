@@ -1,0 +1,68 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Helper functions
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 128;
+    }
+
+    // Products catalog
+    match /products/{productId} {
+      allow read, write: if true;
+    }
+
+    // Orders
+    match /orders/{orderId} {
+      allow read, write: if true;
+    }
+
+    // Customer profiles & accounts
+    match /customer_profiles/{customerId} {
+      allow read, write: if true;
+    }
+
+    // Customer persistent sessions
+    match /customer_sessions/{sessionId} {
+      allow read, write: if true;
+    }
+
+    // Store settings (Branding, banners)
+    match /store_settings/{settingId} {
+      allow read, write: if true;
+    }
+
+    // System metadata & counters
+    match /system_meta/{metaId} {
+      allow read, write: if true;
+    }
+
+    // Product Images (Permanent photo storage in Firestore)
+    match /product_images/{imageId} {
+      allow read, write: if true;
+    }
+
+    // Audit logs
+    match /stock_audit/{auditId} {
+      allow read, write: if true;
+    }
+
+    match /revenue_audit/{auditId} {
+      allow read, write: if true;
+    }
+
+    match /system_audit/{auditId} {
+      allow read, write: if true;
+    }
+
+    // Revenue Transactions (Order-based delivered revenue records)
+    match /revenue_transactions/{transactionId} {
+      allow read, write: if true;
+    }
+
+    // Default catch-all for health checks and any nested collections
+    match /{document=**} {
+      allow read, write: if true;
+    }
+  }
+}
